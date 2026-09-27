@@ -127,7 +127,7 @@ ATHLETES.forEach((athlete, index) => {
             <span class="status-dot"></span>
             <span>大会8日目 / 開催中</span>
           </div>
-          <a href="https://www.asian-games.org/competitions/schedule/" target="_blank" rel="noopener noreferrer" class="header-schedule-btn" title="愛知・名古屋2026 公式競技日程・タイムテーブル">
+          <a href="https://www.aichi-nagoya2026.org/ja/sports/" target="_blank" rel="noopener noreferrer" class="header-schedule-btn" title="愛知・名古屋2026 公式競技日程・タイムテーブル">
             <span>📅</span>
             <span class="schedule-label-full">公式スケジュール</span>
             <span style="font-size: 0.75rem;">➔</span>

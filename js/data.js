@@ -109,9 +109,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=北口榛花+アジア大会+公開練習+やり投"
       },
       "officialTournament": {
-        "name": "JAAF公式 大会リザルト速報",
-        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
-        "url": "https://worldathletics.org/competitions/asian-games",
+        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
         "caption": "女子やり投 競技日程・エントリーリスト＆決勝試技順"
       }
     }
@@ -212,9 +212,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=サニブラウン+100m+アジア大会+2026+準決勝+速報"
       },
       "officialTournament": {
-        "name": "JAAF公式 大会リザルト速報",
-        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
-        "url": "https://worldathletics.org/competitions/asian-games",
+        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
         "caption": "男子100m ラウンド別公式リザルト・風速記録＆決勝レーン順"
       }
     }
@@ -310,9 +310,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=田中希実+1500m+アジア大会+2026+予選"
       },
       "officialTournament": {
-        "name": "JAAF公式 大会リザルト速報",
-        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
-        "url": "https://worldathletics.org/competitions/asian-games",
+        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
         "caption": "女子1500m・5000m ラップタイム＆公式結果速報"
       }
     }
@@ -409,9 +409,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=泉谷駿介+110mH+アジア大会+2026+予選"
       },
       "officialTournament": {
-        "name": "JAAF公式 大会リザルト速報",
-        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
-        "url": "https://worldathletics.org/competitions/asian-games",
+        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
         "caption": "男子110mH 予選公式タイムシート＆組別着順詳細"
       }
     }
@@ -512,9 +512,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=池江璃花子+アジア大会+50mバタフライ+銅メダル"
       },
       "officialTournament": {
-        "name": "World Aquatics 公式リザルト",
-        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
-        "url": "https://www.worldaquatics.com/competitions",
+        "name": "愛知・名古屋2026 競泳 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/swimming/",
         "caption": "競泳 予選・決勝公式リザルト速報＆全選手スプリットタイム"
       }
     }
@@ -606,9 +606,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=松元克央+200m自由形+アジア大会+銀メダル"
       },
       "officialTournament": {
-        "name": "World Aquatics 公式リザルト",
-        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
-        "url": "https://www.worldaquatics.com/competitions",
+        "name": "愛知・名古屋2026 競泳 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/swimming/",
         "caption": "競泳 予選・決勝公式リザルト速報＆全選手スプリットタイム"
       }
     }
@@ -695,9 +695,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=玉井陸斗+飛込+アジア大会+2026+速報"
       },
       "officialTournament": {
-        "name": "World Aquatics 公式リザルト",
-        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
-        "url": "https://www.worldaquatics.com/competitions",
+        "name": "愛知・名古屋2026 飛込 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/diving/",
         "caption": "飛込 男子高飛込 予選ラウンド採点表＆決勝スタートリスト"
       }
     }
@@ -794,9 +794,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=橋本大輝+体操+アジア大会+個人総合+金メダル"
       },
       "officialTournament": {
-        "name": "JGA公式 競技結果・採点シート",
-        "source": "日本体操協会 (JGA) / 国際体操連盟 (FIG)",
-        "url": "https://www.jpn-gym.or.jp/artistic/event/",
+        "name": "愛知・名古屋2026 体操競技 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/artistic-gymnastics/",
         "caption": "男子個人総合 6種目別得点・Dスコア/Eスコア全詳細"
       }
     }
@@ -883,9 +883,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=岡慎之助+体操+平行棒+金メダル+アジア大会"
       },
       "officialTournament": {
-        "name": "JGA公式 競技結果・採点シート",
-        "source": "日本体操協会 (JGA) / 国際体操連盟 (FIG)",
-        "url": "https://www.jpn-gym.or.jp/artistic/event/",
+        "name": "愛知・名古屋2026 体操競技 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/artistic-gymnastics/",
         "caption": "男子種目別平行棒 予選・決勝公式ジャッジ採点表"
       }
     }
@@ -981,9 +981,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=阿部一二三+アジア大会+柔道+一本勝ち+ハイライト"
       },
       "officialTournament": {
-        "name": "IJF公式 トーナメント表 (Draw)",
-        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
-        "url": "https://judobase.ijf.org/",
+        "name": "愛知・名古屋2026 柔道 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/judo/",
         "caption": "男子66kg級 勝ち上がりトーナメント表＆全試合決まり技詳細"
       }
     }
@@ -1084,9 +1084,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=阿部詩+アジア大会+柔道+金メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "IJF公式 トーナメント表 (Draw)",
-        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
-        "url": "https://judobase.ijf.org/",
+        "name": "愛知・名古屋2026 柔道 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/judo/",
         "caption": "女子52kg級 勝ち上がりトーナメント表＆全試合決まり技詳細"
       }
     }
@@ -1178,9 +1178,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=角田夏実+アジア大会+柔道+巴投+金メダル"
       },
       "officialTournament": {
-        "name": "IJF公式 トーナメント表 (Draw)",
-        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
-        "url": "https://judobase.ijf.org/",
+        "name": "愛知・名古屋2026 柔道 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/judo/",
         "caption": "女子48kg級 公式トーナメント対戦表＆スコア詳細"
       }
     }
@@ -1272,9 +1272,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=藤波朱理+レスリング+アジア大会+2026+速報"
       },
       "officialTournament": {
-        "name": "UWW公式 対戦トーナメント表",
-        "source": "世界レスリング連盟 (UWW Arena) / 日本レスリング協会",
-        "url": "https://uww.org/events",
+        "name": "愛知・名古屋2026 レスリング 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/wrestling/",
         "caption": "女子53kg級 勝ち上がりブラケット＆ピリオド別スコア"
       }
     }
@@ -1366,9 +1366,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=加納虹輝+フェンシング+エペ+金メダル+アジア大会"
       },
       "officialTournament": {
-        "name": "FIE公式 対戦ブラケット表",
-        "source": "国際フェンシング連盟 (FIE) / 日本フェンシング協会",
-        "url": "https://fie.org/competitions",
+        "name": "愛知・名古屋2026 フェンシング 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/fencing/",
         "caption": "男子エペ個人 決勝トーナメント表＆ポイント経過記録"
       }
     }
@@ -1464,9 +1464,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=張本智和+アジア大会+2026+準決勝+速報"
       },
       "officialTournament": {
-        "name": "WTT公式 ライブスコア＆ドロー表",
-        "source": "WTT (World Table Tennis) / 日本卓球協会",
-        "url": "https://worldtabletennis.com/",
+        "name": "愛知・名古屋2026 卓球 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/table-tennis/",
         "caption": "男子シングルス 準決勝リアルタイムスコア＆トーナメント対戦表"
       }
     }
@@ -1558,9 +1558,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=早田ひな+アジア大会+卓球+ハイライト"
       },
       "officialTournament": {
-        "name": "WTT公式 女子トーナメント表",
-        "source": "WTT (World Table Tennis) / 日本卓球協会",
-        "url": "https://worldtabletennis.com/",
+        "name": "愛知・名古屋2026 卓球 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/table-tennis/",
         "caption": "女子シングルス 準決勝〜決勝ブラケット＆詳細スタッツ"
       }
     }
@@ -1647,9 +1647,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=奈良岡功大+バドミントン+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "BWF公式 マッチ対戦表 (Draw)",
-        "source": "世界バドミントン連盟 (BWF) / 日本バドミントン協会",
-        "url": "https://www.tournamentsoftware.com/",
+        "name": "愛知・名古屋2026 バドミントン 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/badminton/",
         "caption": "男子シングルス 決勝トーナメント表＆全マッチスコアシート"
       }
     }
@@ -1741,9 +1741,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=山口茜+バドミントン+アジア大会+2026+準決勝"
       },
       "officialTournament": {
-        "name": "BWF公式 マッチ対戦表 (Draw)",
-        "source": "世界バドミントン連盟 (BWF) / 日本バドミントン協会",
-        "url": "https://www.tournamentsoftware.com/",
+        "name": "愛知・名古屋2026 バドミントン 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/badminton/",
         "caption": "女子シングルス 決勝トーナメント表＆全マッチスコアシート"
       }
     }
@@ -1844,9 +1844,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=堀米雄斗+スケートボード+アジア大会+逆転金メダル"
       },
       "officialTournament": {
-        "name": "World Skate 公式リザルト",
-        "source": "World Skate / ワールドスケートジャパン",
-        "url": "https://www.worldskate.org/skateboarding/results.html",
+        "name": "愛知・名古屋2026 スケートボード 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/skateboarding/",
         "caption": "男子ストリート 予選・決勝ラン＆ベストトリック全採点表"
       }
     }
@@ -1927,9 +1927,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=吉沢恋+スケートボード+アジア大会+金メダル"
       },
       "officialTournament": {
-        "name": "World Skate 公式リザルト",
-        "source": "World Skate / ワールドスケートジャパン",
-        "url": "https://www.worldskate.org/skateboarding/results.html",
+        "name": "愛知・名古屋2026 スケートボード 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/skateboarding/",
         "caption": "女子ストリート 予選・決勝トリック別公式スコアシート"
       }
     }
@@ -2035,9 +2035,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=Shigekix+ブレイキン+アジア大会+公開練習"
       },
       "officialTournament": {
-        "name": "WDSF公式 バトルブラケット表",
-        "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
-        "url": "https://www.worlddancesport.org/",
+        "name": "愛知・名古屋2026 ブレイキン 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/breaking/",
         "caption": "ブレイキン男子 バトルラウンドロビン＆決勝トーナメント表"
       }
     }
@@ -2124,9 +2124,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=AMI+湯浅亜実+ブレイキン+アジア大会"
       },
       "officialTournament": {
-        "name": "WDSF公式 バトルブラケット表",
-        "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
-        "url": "https://www.worlddancesport.org/",
+        "name": "愛知・名古屋2026 ブレイキン 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/breaking/",
         "caption": "ブレイキン女子 バトルラウンドロビン＆決勝トーナメント表"
       }
     }
@@ -2227,9 +2227,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=ときど+ストリートファイター6+アジア大会+金メダル"
       },
       "officialTournament": {
-        "name": "JeSU / 大会公式 eスポーツブラケット",
-        "source": "日本eスポーツ連合 (JeSU) / Aichi-Nagoya 2026",
-        "url": "https://jesu.or.jp/",
+        "name": "愛知・名古屋2026 eスポーツ 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/esports/",
         "caption": "ストリートファイター6 トーナメント対戦表＆マッチ勝敗詳細"
       }
     }
@@ -2321,9 +2321,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=河村勇輝+AKATSUKI+JAPAN+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "FIBA公式 スケジュール＆ボックススコア",
-        "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会",
-        "url": "https://www.fiba.basketball/",
+        "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
         "caption": "男子日本代表 予選〜決勝トーナメント全試合公式ボックススコア"
       }
     }
@@ -2410,9 +2410,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=細谷真大+U-23日本代表+アジア大会+2026+ゴール"
       },
       "officialTournament": {
-        "name": "JFA公式 大会日程・全試合結果",
-        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-        "url": "https://www.jfa.jp/national_team/u23_2026/",
+        "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
         "caption": "U-23日本代表 グループステージ＆ノックアウトステージ全試合詳細"
       }
     }

@@ -71,9 +71,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -124,9 +124,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -177,9 +177,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -230,9 +230,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -283,9 +283,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -336,9 +336,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -389,9 +389,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -443,9 +443,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -496,9 +496,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -549,9 +549,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -602,9 +602,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -655,9 +655,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -708,9 +708,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -761,9 +761,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -814,9 +814,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -867,9 +867,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -922,9 +922,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -975,9 +975,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1027,9 +1027,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1080,9 +1080,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1133,9 +1133,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1185,9 +1185,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 大会日程・全試合結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/national_team/u23_2026/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1206,9 +1206,9 @@ const TEAMS_DATA = [
         "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "JFA公式 大会日程・全試合結果",
-        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-        "url": "https://www.jfa.jp/national_team/u23_2026/",
+        "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
         "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
       }
     }
@@ -1281,9 +1281,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1340,9 +1340,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1393,9 +1393,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1452,9 +1452,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1505,9 +1505,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1558,9 +1558,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1611,9 +1611,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1665,9 +1665,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1718,9 +1718,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1771,9 +1771,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1824,9 +1824,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1877,9 +1877,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1930,9 +1930,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1983,9 +1983,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2036,9 +2036,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2089,9 +2089,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2142,9 +2142,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2195,9 +2195,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2248,9 +2248,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2301,9 +2301,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2354,9 +2354,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2407,9 +2407,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JFA公式 なでしこジャパン大会結果",
-            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-            "url": "https://www.jfa.jp/nadeshikojapan/",
+            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2428,9 +2428,9 @@ const TEAMS_DATA = [
         "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "JFA公式 なでしこジャパン大会結果",
-        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
-        "url": "https://www.jfa.jp/nadeshikojapan/",
+        "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
         "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
       }
     }
@@ -2510,9 +2510,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2569,9 +2569,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2622,9 +2622,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2680,9 +2680,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2739,9 +2739,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2793,9 +2793,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2846,9 +2846,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2899,9 +2899,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2952,9 +2952,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -3005,9 +3005,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -3058,9 +3058,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -3111,9 +3111,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "FIBA公式 トーナメント表＆結果",
-            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-            "url": "https://www.fiba.basketball/",
+            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -3132,9 +3132,9 @@ const TEAMS_DATA = [
         "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "FIBA公式 トーナメント表＆結果",
-        "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
-        "url": "https://www.fiba.basketball/",
+        "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
         "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
       }
     }
@@ -3213,9 +3213,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3272,9 +3272,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3331,9 +3331,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3384,9 +3384,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3437,9 +3437,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3490,9 +3490,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3543,9 +3543,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3596,9 +3596,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3649,9 +3649,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3702,9 +3702,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3755,9 +3755,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3808,9 +3808,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3861,9 +3861,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3914,9 +3914,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "AVC公式 マッチリザルト・星取表",
-            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-            "url": "https://asianvolleyball.net/",
+            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3935,9 +3935,9 @@ const TEAMS_DATA = [
         "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "AVC公式 マッチリザルト・星取表",
-        "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
-        "url": "https://asianvolleyball.net/",
+        "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
         "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
       }
     }
@@ -4010,9 +4010,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4064,9 +4064,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4117,9 +4117,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4170,9 +4170,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4223,9 +4223,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4277,9 +4277,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4330,9 +4330,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4383,9 +4383,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4436,9 +4436,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4489,9 +4489,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4542,9 +4542,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4595,9 +4595,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4648,9 +4648,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4701,9 +4701,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4754,9 +4754,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4807,9 +4807,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4860,9 +4860,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4913,9 +4913,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4966,9 +4966,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5019,9 +5019,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5072,9 +5072,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5125,9 +5125,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5178,9 +5178,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5231,9 +5231,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "侍ジャパン公式 試合日程・結果",
-            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5252,9 +5252,9 @@ const TEAMS_DATA = [
         "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "侍ジャパン公式 試合日程・結果",
-        "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
-        "url": "https://www.japan-baseball.jp/jp/team/amateur/",
+        "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
         "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
       }
     }
@@ -5327,9 +5327,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5380,9 +5380,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5433,9 +5433,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5486,9 +5486,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5539,9 +5539,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5592,9 +5592,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5645,9 +5645,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5698,9 +5698,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5751,9 +5751,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5804,9 +5804,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5857,9 +5857,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5910,9 +5910,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5963,9 +5963,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -6016,9 +6016,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -6069,9 +6069,9 @@ const TEAMS_DATA = [
             "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
           },
           "officialTournament": {
-            "name": "JSA公式 大会トーナメント対戦表",
-            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-            "url": "https://www.softball.or.jp/",
+            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+            "source": "愛知・名古屋2026 公式サイト",
+            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -6090,9 +6090,9 @@ const TEAMS_DATA = [
         "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
       },
       "officialTournament": {
-        "name": "JSA公式 大会トーナメント対戦表",
-        "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
-        "url": "https://www.softball.or.jp/",
+        "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
+        "source": "愛知・名古屋2026 公式サイト",
+        "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
         "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
       }
     }
