@@ -7,13 +7,21 @@
 
 let appInitialized = false;
 
-function initApp() {
-  if (appInitialized) return;
+// リレンダリング用ハンドラーのグローバル参照
+let appRerenderHandler = null;
+
+function initApp(forceReinit = false) {
+  if (appInitialized && !forceReinit) return;
+
+  if (forceReinit && appRerenderHandler) {
+    appRerenderHandler();
+    return;
+  }
   appInitialized = true;
 
-  // グローバルまたはFirestoreから読み込まれたデータを参照
-  const ATHLETES_DATA = window.ATHLETES_DATA || (typeof ATHLETES_DATA !== 'undefined' ? ATHLETES_DATA : []);
-  const TEAMS_DATA = window.TEAMS_DATA || (typeof TEAMS_DATA !== 'undefined' ? TEAMS_DATA : []);
+  // 動的に最新データを取得するアクセサ
+  const getAthletes = () => window.ATHLETES_DATA || (typeof ATHLETES_DATA !== 'undefined' ? ATHLETES_DATA : []);
+  const getTeams = () => window.TEAMS_DATA || (typeof TEAMS_DATA !== 'undefined' ? TEAMS_DATA : []);
 
   // DOM要素
   const athletesGrid = document.getElementById('athletesGrid');
@@ -48,13 +56,31 @@ function initApp() {
   let viewMode = 'individual'; // 'individual' | 'team'
   let currentCategory = 'all';
   let currentMedal = 'all'; // 'all' | 'gold' | 'silver' | 'bronze'
-  let currentTeamId = 'football-men'; // チーム種目ID ('football-men', 'football-women', etc., or 'all')
-  let currentPosition = 'all'; // チーム内ポジション絞り込み
+  let currentTeamId = 'football-men'; // チーム種目ID
+  let currentPosition = 'all';
   let currentSearchQuery = '';
   let currentEvent = 'all';
   let currentSort = 'default';
   let isFavOnly = false;
   let favorites = getStoredFavorites();
+
+  // 大会切り替え時の再描画コールバック
+  appRerenderHandler = () => {
+    currentCategory = 'all';
+    currentMedal = 'all';
+    currentEvent = 'all';
+    currentSearchQuery = '';
+    if (searchInput) searchInput.value = '';
+    categoryTabs?.querySelectorAll('.cat-tab').forEach(t => {
+      t.classList.toggle('active', t.dataset.category === 'all');
+    });
+    medalFilterButtons?.querySelectorAll('.medal-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.medal === 'all');
+    });
+    updateMedalCounts();
+    populateEventSelect();
+    renderAthletes();
+  };
 
   // 初期化
   updateFavBadge();
@@ -276,7 +302,7 @@ function initApp() {
 
     if (viewMode === 'individual') {
       // 個人選手
-      ATHLETES_DATA.forEach(a => {
+      getAthletes().forEach(a => {
         const m = a.tournamentResult?.medal;
         if (m === 'ongoing') ongoing++;
         else if (m === 'gold') gold++;
@@ -286,16 +312,14 @@ function initApp() {
       });
     } else {
       // チームスポーツ
-      if (typeof TEAMS_DATA !== 'undefined') {
-        TEAMS_DATA.forEach(t => {
-          const m = t.tournamentResult?.medal;
-          if (m === 'ongoing') ongoing++;
-          else if (m === 'gold') gold++;
-          else if (m === 'silver') silver++;
-          else if (m === 'bronze') bronze++;
-          else if (m === 'upcoming') upcoming++;
-        });
-      }
+      getTeams().forEach(t => {
+        const m = t.tournamentResult?.medal;
+        if (m === 'ongoing') ongoing++;
+        else if (m === 'gold') gold++;
+        else if (m === 'silver') silver++;
+        else if (m === 'bronze') bronze++;
+        else if (m === 'upcoming') upcoming++;
+      });
     }
 
     if (ongoingCountBadge) ongoingCountBadge.textContent = ongoing;
@@ -352,7 +376,7 @@ function initApp() {
     eventSelect.innerHTML = '<option value="all">全種目</option>';
 
     if (viewMode === 'individual') {
-      let pool = ATHLETES_DATA;
+      let pool = getAthletes();
       if (currentCategory !== 'all') {
         pool = pool.filter(a => a.category === currentCategory);
       }
@@ -366,15 +390,13 @@ function initApp() {
       });
     } else {
       // チームモード
-      if (typeof TEAMS_DATA !== 'undefined') {
-        TEAMS_DATA.forEach(t => {
-          const opt = document.createElement('option');
-          opt.value = t.event;
-          opt.textContent = `${t.sport}: ${t.event} (${t.athletes.length}名)`;
-          if (t.event === currentEvent || t.id === currentTeamId) opt.selected = true;
-          eventSelect.appendChild(opt);
-        });
-      }
+      getTeams().forEach(t => {
+        const opt = document.createElement('option');
+        opt.value = t.event;
+        opt.textContent = `${t.sport}: ${t.event} (${t.athletes.length}名)`;
+        if (t.event === currentEvent || t.id === currentTeamId) opt.selected = true;
+        eventSelect.appendChild(opt);
+      });
     }
   }
 
@@ -400,7 +422,7 @@ function initApp() {
   // 個人選手一覧の描画
   // ==========================================
   function renderIndividualAthletes() {
-    let list = [...ATHLETES_DATA];
+    let list = [...getAthletes()];
 
     // 1. メダル色絞り込み
     if (currentMedal !== 'all') {
@@ -551,21 +573,22 @@ function initApp() {
   // チームスポーツ全登録ロスターの描画
   // ==========================================
   function renderTeamRoster() {
-    if (typeof TEAMS_DATA === 'undefined') return;
+    const teams = getTeams();
+    if (!teams || teams.length === 0) return;
 
     // 表示対象チームの特定
     let targetTeams = [];
     if (currentTeamId === 'all') {
-      targetTeams = [...TEAMS_DATA];
+      targetTeams = [...teams];
       if (teamHeaderContainer) teamHeaderContainer.style.display = 'none';
     } else {
-      const selected = TEAMS_DATA.find(t => t.id === currentTeamId);
+      const selected = teams.find(t => t.id === currentTeamId);
       if (selected) {
         targetTeams = [selected];
         renderTeamHeader(selected);
       } else {
-        targetTeams = [TEAMS_DATA[0]];
-        renderTeamHeader(TEAMS_DATA[0]);
+        targetTeams = [teams[0]];
+        renderTeamHeader(teams[0]);
       }
     }
 
@@ -824,7 +847,7 @@ function initApp() {
     if (teamHeaderContainer) teamHeaderContainer.style.display = 'none';
 
     // 1. 個人選手から検索
-    let matchedIndividuals = ATHLETES_DATA.filter(a => {
+    let matchedIndividuals = getAthletes().filter(a => {
       const targetStr = [
         a.name, a.kana, a.romaji, a.sport, a.event, a.affiliation, a.birthPlace, a.summary,
         a.tournamentResult?.rank, a.tournamentResult?.record,
@@ -839,8 +862,7 @@ function initApp() {
 
     // 2. チーム所属選手から検索
     let matchedTeamAthletes = [];
-    if (typeof TEAMS_DATA !== 'undefined') {
-      TEAMS_DATA.forEach(team => {
+    getTeams().forEach(team => {
         team.athletes.forEach(athlete => {
           const targetStr = [
             athlete.name, athlete.kana, athlete.romaji, athlete.pos, athlete.posName,
@@ -1081,7 +1103,7 @@ function initApp() {
   // クイックビュー モーダル (個人注目選手)
   // ==========================================
   function openQuickModal(id) {
-    const athlete = ATHLETES_DATA.find(a => a.id === id);
+    const athlete = getAthletes().find(a => a.id === id);
     if (!athlete) return;
 
     const res = athlete.tournamentResult;
@@ -1170,12 +1192,13 @@ function initApp() {
   // クイックビュー モーダル (チーム所属選手)
   // ==========================================
   function openTeamAthleteModal(id) {
-    if (typeof TEAMS_DATA === 'undefined') return;
+    const teams = getTeams();
+    if (!teams || teams.length === 0) return;
 
     let targetAthlete = null;
     let targetTeam = null;
 
-    for (const team of TEAMS_DATA) {
+    for (const team of teams) {
       const found = team.athletes.find(a => a.id === id);
       if (found) {
         targetAthlete = found;

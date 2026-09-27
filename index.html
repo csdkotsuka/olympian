@@ -15,6 +15,29 @@
 </head>
 <body>
 
+  <!-- 大会セレクターバー（最上部固定・マルチ大会スイッチャー） -->
+  <aside class="tournament-switcher-bar" aria-label="大会選択ナビゲーション">
+    <div class="container switcher-inner">
+      <div class="switcher-left">
+        <span class="switcher-icon">🏆</span>
+        <span class="switcher-label">表示大会:</span>
+        <span class="current-tourney-badge" id="currentTourneyBadge">愛知・名古屋2026</span>
+      </div>
+      <div class="switcher-right">
+        <label for="tournamentSelect" class="select-label">大会を切り替える:</label>
+        <div class="select-wrapper">
+          <select id="tournamentSelect" class="tournament-dropdown" aria-label="表示する世界大会・国内大会を選択">
+            <option value="asian-games-2026">第20回アジア競技大会（愛知・名古屋2026）</option>
+            <option value="olympics-paris-2024">パリオリンピック2024（準備中）</option>
+            <option value="world-athletics-tokyo-2025">東京2025 世界陸上（準備中）</option>
+            <option value="olympics-la-2028">ロサンゼルス2028（準備中）</option>
+            <option value="inter-high-2026">インターハイ2026（準備中）</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </aside>
+
   <!-- サイトヘッダー -->
   <header class="site-header" id="top">
     <div class="container header-inner">
@@ -136,6 +159,38 @@
             <a href="https://www.joc.or.jp/games/asia/" target="_blank" rel="noopener noreferrer" class="schedule-sublink">
               JOC（日本オリンピック委員会）大会日程情報
             </a>
+          <!-- アフィリエイト / 関連サービス・公式配信・応援アイテム案内枠 -->
+          <div class="affiliate-banner-row">
+            <div class="affiliate-row-header">
+              <span class="affiliate-tag">PR</span>
+              <span class="affiliate-lead">大会公式配信・注目応援グッズ・会場宿泊</span>
+            </div>
+            <div class="affiliate-grid">
+              <a href="https://www.amazon.co.jp/s?k=日本代表+公式ウェア+スポーツグッズ" target="_blank" rel="noopener noreferrer sponsored" class="affiliate-card-item">
+                <span class="aff-icon">🛍️</span>
+                <div class="aff-text">
+                  <strong>公式グッズ＆応援ウェア</strong>
+                  <p>代表ユニフォーム・愛用シューズ・ギア</p>
+                </div>
+                <span class="aff-arrow">➔</span>
+              </a>
+              <a href="https://video.unext.jp/" target="_blank" rel="noopener noreferrer sponsored" class="affiliate-card-item">
+                <span class="aff-icon">📺</span>
+                <div class="aff-text">
+                  <strong>大会ライブ中継＆見逃し配信</strong>
+                  <p>熱戦の瞬間を高画質リアルタイム観戦</p>
+                </div>
+                <span class="aff-arrow">➔</span>
+              </a>
+              <a href="https://travel.rakuten.co.jp/" target="_blank" rel="noopener noreferrer sponsored" class="affiliate-card-item">
+                <span class="aff-icon">🏨</span>
+                <div class="aff-text">
+                  <strong>会場周辺のホテル・宿泊予約</strong>
+                  <p>瑞穂・豊田スタジアム近隣おすすめ宿</p>
+                </div>
+                <span class="aff-arrow">➔</span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -326,6 +381,41 @@
       </div>
     </div>
   </section>
+
+  <!-- 応援パートナー ＆ アフィリエイト広告・提携リンク枠 -->
+  <aside class="sponsor-partner-section" aria-label="スポンサー・提携サービス">
+    <div class="container">
+      <div class="sponsor-inner">
+        <span class="sponsor-badge">SPONSOR & PARTNERS (PR)</span>
+        <div class="sponsor-banner-grid">
+          <div class="sponsor-card">
+            <span class="sp-icon">🏃</span>
+            <div class="sp-body">
+              <h4>スポーツ用品・ランニングシューズ特集</h4>
+              <p>アシックス、ミズノ、ナイキなどトップ選手着用モデル</p>
+            </div>
+            <a href="https://www.amazon.co.jp/s?k=ランニングシューズ+アシックス+ミズノ" target="_blank" rel="noopener noreferrer sponsored" class="btn-sp-link">詳細を見る ➔</a>
+          </div>
+          <div class="sponsor-card">
+            <span class="sp-icon">🥤</span>
+            <div class="sp-body">
+              <h4>アスリート栄養補給・プロテイン</h4>
+              <p>激闘を支える高純度ホエイプロテイン＆スポーツサプリ</p>
+            </div>
+            <a href="https://www.amazon.co.jp/s?k=プロテイン+スポーツサプリ" target="_blank" rel="noopener noreferrer sponsored" class="btn-sp-link">詳細を見る ➔</a>
+          </div>
+          <div class="sponsor-card">
+            <span class="sp-icon">🎟️</span>
+            <div class="sp-body">
+              <h4>スポーツ観戦・旅行・チケット</h4>
+              <p>日本全国・世界各地のビッグマッチ観戦ツアー＆宿泊</p>
+            </div>
+            <a href="https://travel.rakuten.co.jp/" target="_blank" rel="noopener noreferrer sponsored" class="btn-sp-link">詳細を見る ➔</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside>
 
   <!-- サイトフッター -->
   <footer class="site-footer">
