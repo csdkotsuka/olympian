@@ -2,12 +2,20 @@
  * 選手個別詳細ページ動的描画スクリプト (detail.js)
  */
 
-document.addEventListener('DOMContentLoaded', () => {
+let detailInitialized = false;
+
+function initDetail() {
+  if (detailInitialized) return;
+  detailInitialized = true;
+
+  const ATHLETES_DATA = window.ATHLETES_DATA || (typeof window.ATHLETES_DATA !== 'undefined' ? window.ATHLETES_DATA : (typeof ATHLETES_DATA !== 'undefined' ? ATHLETES_DATA : []));
+
   const container = document.getElementById('detailContainer');
   const params = new URLSearchParams(window.location.search);
   const athleteId = params.get('id');
 
   const athlete = ATHLETES_DATA.find(a => a.id === athleteId) || ATHLETES_DATA[0];
+  if (!athlete) return;
 
   const currentIndex = ATHLETES_DATA.findIndex(a => a.id === athlete.id);
   const prevAthlete = currentIndex > 0 ? ATHLETES_DATA[currentIndex - 1] : ATHLETES_DATA[ATHLETES_DATA.length - 1];
@@ -320,12 +328,33 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addEventListener('scroll', handleScroll, { passive: true });
     handleScroll();
 
-    backToTopBtn.addEventListener('click', (e) => {
-      e.preventDefault();
-      window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
+      backToTopBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
       });
-    });
+    }
   }
-});
+}
+
+// グローバルにinitAppとして公開（firebase-data.jsから呼ばれる）
+window.initApp = initDetail;
+
+// 万が一firebase-data.jsが使われない場合の自動起動フォールバック
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(() => {
+      if (!detailInitialized && (window.ATHLETES_DATA || typeof ATHLETES_DATA !== 'undefined')) {
+        initDetail();
+      }
+    }, 1500);
+  });
+} else {
+  setTimeout(() => {
+    if (!detailInitialized && (window.ATHLETES_DATA || typeof ATHLETES_DATA !== 'undefined')) {
+      initDetail();
+    }
+  }, 1500);
+}

@@ -1,0 +1,26 @@
+{
+  "name": "olympian",
+  "version": "1.0.0",
+  "description": "Olympian - 世界大会・アジア大会 日本代表選手名鑑ポータル (Firebase連携)",
+  "main": "seed_firestore.js",
+  "scripts": {
+    "seed": "node seed_firestore.js",
+    "deploy:rules": "npx -y firebase-tools@latest deploy --only firestore:rules --project olympian-8f55c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csdkotsuka/olympian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/csdkotsuka/olympian/issues"
+  },
+  "homepage": "https://github.com/csdkotsuka/olympian#readme",
+  "dependencies": {
+    "firebase": "^12.19.0"
+  }
+}

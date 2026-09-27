@@ -5,7 +5,16 @@
  * 今大会結果（メダル絞り込み）＆ 最後のシーンハイライトリンク対応
  */
 
-document.addEventListener('DOMContentLoaded', () => {
+let appInitialized = false;
+
+function initApp() {
+  if (appInitialized) return;
+  appInitialized = true;
+
+  // グローバルまたはFirestoreから読み込まれたデータを参照
+  const ATHLETES_DATA = window.ATHLETES_DATA || (typeof ATHLETES_DATA !== 'undefined' ? ATHLETES_DATA : []);
+  const TEAMS_DATA = window.TEAMS_DATA || (typeof TEAMS_DATA !== 'undefined' ? TEAMS_DATA : []);
+
   // DOM要素
   const athletesGrid = document.getElementById('athletesGrid');
   const searchInput = document.getElementById('searchInput');
@@ -1287,4 +1296,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
     switchViewMode('individual');
   }
-});
+}
+
+// グローバルにinitAppを公開（Firestoreローダーから呼ばれる）
+window.initApp = initApp;
+
+// 万が一firebase-data.jsから呼ばれなかった場合の自動起動フォールバック
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(() => {
+      if (!appInitialized && (window.ATHLETES_DATA || typeof ATHLETES_DATA !== 'undefined')) {
+        console.log('[Olympian] フォールバックで初期化を実行します');
+        initApp();
+      }
+    }, 1500);
+  });
+} else {
+  setTimeout(() => {
+    if (!appInitialized && (window.ATHLETES_DATA || typeof ATHLETES_DATA !== 'undefined')) {
+      console.log('[Olympian] フォールバックで初期化を実行します');
+      initApp();
+    }
+  }, 1500);
+}

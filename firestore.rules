@@ -1,0 +1,26 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 大会情報、選手情報、チーム情報は誰でも閲覧可能
+    match /competitions/{competitionId} {
+      allow read: if true;
+      allow write: if false;
+
+      match /athletes/{athleteId} {
+        allow read: if true;
+        allow write: if false;
+      }
+
+      match /teams/{teamId} {
+        allow read: if true;
+        allow write: if false;
+      }
+    }
+
+    // デフォルトはすべて拒否
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

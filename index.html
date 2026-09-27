@@ -21,6 +21,10 @@
       <a href="index.html" class="logo-link" aria-label="トップページへ">
         <div class="emblem-icon">26</div>
         <div class="logo-text-group">
+          <div style="display:flex;align-items:center;gap:6px;margin-bottom:2px;">
+            <span style="font-family:'Montserrat',sans-serif;font-weight:900;font-size:0.85rem;color:#818cf8;letter-spacing:1.5px;text-transform:uppercase;">Olympian</span>
+            <span style="font-size:0.65rem;background:rgba(99,102,241,0.18);color:#a5b4fc;padding:1px 6px;border-radius:4px;font-weight:600;border:1px solid rgba(129,140,248,0.3);display:inline-flex;align-items:center;gap:3px;">🔥 Cloud Database</span>
+          </div>
           <h1>愛知・名古屋2026 アジア大会</h1>
           <span class="logo-sub">TEAM JAPAN 選手名鑑ポータル</span>
         </div>
@@ -287,7 +291,12 @@
   <main class="athletes-section">
     <div class="container">
       <div class="athletes-grid" id="athletesGrid" aria-live="polite">
-        <!-- JavaScript (app.js) により選手カードが動的生成されます -->
+        <!-- Firebase Firestore データ読み込みローダー -->
+        <div id="firebaseLoader" style="grid-column: 1 / -1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 4rem 1rem; color: #94a3b8; text-align: center;">
+          <div style="width: 44px; height: 44px; border: 3px solid rgba(99, 102, 241, 0.2); border-top-color: #6366f1; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 1rem;"></div>
+          <p style="font-weight: 600; color: #cbd5e1; margin-bottom: 0.25rem;">Firebase Firestore から選手データを読み込み中...</p>
+          <p style="font-size: 0.8rem; color: #64748b;">プロジェクト: Olympian (olympian-8f55c)</p>
+        </div>
       </div>
     </div>
   </main>
@@ -354,5 +363,6 @@
   <script src="js/data.js"></script>
   <script src="js/team_data.js"></script>
   <script src="js/app.js"></script>
+  <script type="module" src="js/firebase-data.js"></script>
 </body>
 </html>
