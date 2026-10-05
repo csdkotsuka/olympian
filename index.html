@@ -55,13 +55,13 @@
       
       <div class="header-actions">
         <div class="header-schedule-group">
-          <div class="header-status-badge live" id="headerStatusBadge" title="愛知・名古屋2026大会開催中（9月19日〜10月4日）">
-            <span class="status-dot"></span>
-            <span id="headerStatusText">大会8日目 / 開催中</span>
+          <div class="header-status-badge finished" id="headerStatusBadge" title="愛知・名古屋2026大会 全日程終了（閉幕）">
+            <span>🏁</span>
+            <span id="headerStatusText">全日程終了（閉幕）</span>
           </div>
           <a href="https://www.aichi-nagoya2026.org/ja/sports/" target="_blank" rel="noopener noreferrer" class="header-schedule-btn" title="愛知・名古屋2026 公式競技日程・タイムテーブル">
             <span>📅</span>
-            <span class="schedule-label-full">公式スケジュール</span>
+            <span class="schedule-label-full">公式リザルト</span>
             <span style="font-size: 0.75rem;">➔</span>
           </a>
         </div>
@@ -80,36 +80,36 @@
         <div class="hero-tag">
           <span>AICHI-NAGOYA 2026</span>
           <span>•</span>
-          <span>9.19 - 10.4</span>
+          <span>9.19 - 10.4 閉幕</span>
         </div>
         <h2 class="hero-title">
-          アジアの熱狂が、<br>
-          <span class="gradient-text">愛知・名古屋でひとつになる。</span>
+          感動と熱狂の16日間、<br>
+          <span class="gradient-text">愛知・名古屋で掴んだ栄光のメダル。</span>
         </h2>
         <p class="hero-desc">
-          地元日本で開催される第20回アジア競技大会（愛知・名古屋2026）。世界の頂点を目指す日本代表「TEAM JAPAN」の個人注目選手をはじめ、サッカー男女・バスケ・バレー・野球・ソフトボールなどチームスポーツの全登録選手ロスター（109名）を完全網羅。顔写真・背番号・ポジション・客観的批評・公式SNSをお届けします。
+          地元日本で開催された第20回アジア競技大会（愛知・名古屋2026）は全日程が終了しました。世界の頂点に挑んだ日本代表「TEAM JAPAN」は、個人注目選手25名全員がメダル獲得（金19・銀4・銅2）を達成し、球技・団体種目も6競技すべて金メダル完全制覇という歴史的快挙を達成！全選手の最終成績・決定的瞬間ハイライト映像をお届けします。
         </p>
         
         <div class="hero-stats-bar">
           <div class="stat-item">
             <span class="stat-num" id="statAthletesCount">25</span>
-            <span class="stat-label">個人注目選手</span>
+            <span class="stat-label">個人注目選手 (全員メダル獲得)</span>
           </div>
           <div class="stat-item">
             <span class="stat-num">109</span>
-            <span class="stat-label">チーム全登録選手</span>
+            <span class="stat-label">チーム登録選手 (全6競技制覇)</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">19</span>
+            <span class="stat-label">個人金メダル 🥇</span>
           </div>
           <div class="stat-item">
             <span class="stat-num">6</span>
-            <span class="stat-label">球技・団体競技</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-num">45</span>
-            <span class="stat-label">実施競技種目</span>
+            <span class="stat-label">団体球技金メダル 🏆</span>
           </div>
           <div class="stat-item">
             <span class="stat-num">16日間</span>
-            <span class="stat-label">熱戦の大会期間</span>
+            <span class="stat-label">熱戦完走・全日程閉幕 🏁</span>
           </div>
         </div>
 
@@ -117,37 +117,85 @@
         <div class="hero-schedule-card" id="heroScheduleCard">
           <div class="schedule-card-header">
             <div class="schedule-card-title-group">
-              <span class="schedule-day-badge" id="scheduleDayBadge">
-                <span>🔴</span>
-                <span id="scheduleDayText">大会8日目（DAY 8 / 16）開催中</span>
+              <span class="schedule-day-badge finished" id="scheduleDayBadge">
+                <span>🏁</span>
+                <span id="scheduleDayText">大会全日程終了（全16日間 閉幕）</span>
               </span>
               <span class="schedule-period-text">📅 会期: 2026年9月19日(土) 〜 10月4日(日)</span>
             </div>
-            <div class="schedule-today-date" style="font-size: 0.82rem; color: #94a3b8; font-weight: 700;">
-              本日: 2026年9月26日(土)
+            <div class="schedule-today-date" style="font-size: 0.82rem; color: #10b981; font-weight: 700;">
+              ✨ 大会完走・最終成績確定版
             </div>
           </div>
 
           <!-- 大会進捗プログレスバー -->
           <div class="schedule-progress-container">
             <div class="schedule-progress-info">
-              <span id="scheduleProgressLabel">大会進行状況: 中盤戦クライマックス（50%経過）</span>
-              <span id="scheduleProgressPercent">8 / 16 日間</span>
+              <span id="scheduleProgressLabel">大会全日程終了（16日間 完走）</span>
+              <span id="scheduleProgressPercent">16 / 16 日間 完了 (100%)</span>
             </div>
             <div class="schedule-progress-track">
-              <div class="schedule-progress-bar" id="scheduleProgressBar" style="width: 50%;"></div>
+              <div class="schedule-progress-bar" id="scheduleProgressBar" style="width: 100%;"></div>
             </div>
           </div>
 
-          <!-- 本日の主要ハイライト競技 -->
+          <!-- 大会最終ハイライト総括 -->
           <div class="schedule-highlight-box">
             <div class="schedule-highlight-title">
-              <span>🔥</span>
-              <span>本日（9月26日）の主要ハイライト競技・注目カード</span>
+              <span>🏆</span>
+              <span>愛知・名古屋2026 TEAM JAPAN 栄光の軌跡・大会最終総括</span>
             </div>
             <p class="schedule-highlight-text">
-              卓球男子シングルス準決勝（張本智和・LIVE激闘中）、レスリング女子53kg級決勝（藤波朱理・139連勝挑戦）、陸上男子100m決勝（サニブラウン）、男子バレー決勝（日本 vs イラン）、女子ソフトボール決勝（日本 vs 中国・6連覇挑戦）
+              北口榛花が最終6投目67m38の大逆転金メダル、泉谷駿介が13秒09の大会新金、サニブラウンは男子リレー金＆100m銅、田中希実は1500m金＆5000m銀！藤波朱理は公式戦140連勝達成。さらにサッカー男女ダブル金、男子バスケ歴史的アジア制覇、男子バレー劇的フルセット金、野球全勝金、ソフトボール前人未到の6連覇！
             </p>
+          </div>
+
+          <!-- 大会最終メダル獲得サマリーボード -->
+          <div class="final-medal-board">
+            <div class="fmb-header">
+              <div class="fmb-title">
+                <span>🏅</span>
+                <span>TEAM JAPAN 最終獲得メダル一覧</span>
+              </div>
+              <span class="fmb-badge-total">注目代表選手・全6球技チーム 表彰台登壇率 100% 達成！</span>
+            </div>
+            <div class="fmb-medal-row">
+              <div class="fmb-medal-card gold">
+                <span class="fmb-medal-icon">🥇</span>
+                <div class="fmb-medal-info">
+                  <span class="fmb-medal-count">25</span>
+                  <span class="fmb-medal-label">金メダル（個人19 / 団体6）</span>
+                </div>
+              </div>
+              <div class="fmb-medal-card silver">
+                <span class="fmb-medal-icon">🥈</span>
+                <div class="fmb-medal-info">
+                  <span class="fmb-medal-count">4</span>
+                  <span class="fmb-medal-label">銀メダル（個人4）</span>
+                </div>
+              </div>
+              <div class="fmb-medal-card bronze">
+                <span class="fmb-medal-icon">🥉</span>
+                <div class="fmb-medal-info">
+                  <span class="fmb-medal-count">2</span>
+                  <span class="fmb-medal-label">銅メダル（個人2）</span>
+                </div>
+              </div>
+              <div class="fmb-medal-card total">
+                <span class="fmb-medal-icon">🏆</span>
+                <div class="fmb-medal-info">
+                  <span class="fmb-medal-count">31</span>
+                  <span class="fmb-medal-label">総メダル獲得数</span>
+                </div>
+              </div>
+            </div>
+            <div class="fmb-highlights-list">
+              <span class="fmb-hl-chip">🏃 <strong>陸上:</strong> 北口 金 / 泉谷 大会新金 / サニブラウン 金・銅 / 田中 金・銀</span>
+              <span class="fmb-hl-chip">🥋 <strong>格闘技:</strong> 藤波 140連勝金 / 阿部兄妹 アベック金 / 角田 第1号金 / 加納 2冠</span>
+              <span class="fmb-hl-chip">🛹 <strong>アーバン:</strong> 堀米 金 / 吉沢 2冠 / Shigekix 2連覇 / AMI 2冠</span>
+              <span class="fmb-hl-chip">🏓 <strong>ラケット:</strong> 山口 女王奪還金 / 張本・早田 各銀2 / 奈良岡 銅</span>
+              <span class="fmb-hl-chip">⚽ <strong>球技6冠:</strong> サッカー男女・バスケ・バレー・野球・ソフトボール 全競技金制覇！</span>
+            </div>
           </div>
 
           <!-- 公式スケジュールリンク・アクションボタン -->
@@ -231,35 +279,27 @@
         </button>
       </div>
 
-      <!-- メダル・状況絞り込みバー (今大会の成績・進行状況で瞬時フィルタリング) -->
-      <div class="medal-filter-bar" id="medalFilterBar" role="region" aria-label="今大会の結果・試合進行状況で絞り込み">
+      <!-- メダル・状況絞り込みバー (今大会の成績・獲得メダルで瞬時フィルタリング) -->
+      <div class="medal-filter-bar" id="medalFilterBar" role="region" aria-label="今大会の最終成績・獲得メダルで絞り込み">
         <div class="medal-filter-title">
-          <span>🏅 リアルタイム大会結果・進行状況で絞り込み:</span>
-          <span class="medal-filter-hint">※最新の試合速報＆YouTubeハイライト動画・公式リザルト付き</span>
+          <span>🏅 大会最終成績・獲得メダル別絞り込み:</span>
+          <span class="medal-filter-hint">※全選手・全チームの公式リザルト＆決定的瞬間YouTubeハイライト映像付き</span>
         </div>
         <div class="medal-filter-buttons" id="medalFilterButtons">
           <button class="medal-btn active" data-medal="all">
-            <span>🌟</span><span>すべて表示</span>
-          </button>
-          <button class="medal-btn ongoing" data-medal="ongoing">
-            <span class="medal-icon">🔥</span><span>試合中・速報 (LIVE)</span>
-            <span class="medal-count-badge" id="ongoingCountBadge">0</span>
+            <span>🌟</span><span>全選手・全競技表示</span>
           </button>
           <button class="medal-btn gold" data-medal="gold">
-            <span class="medal-icon">🥇</span><span>金メダル確定</span>
-            <span class="medal-count-badge" id="goldCountBadge">0</span>
+            <span class="medal-icon">🥇</span><span>金メダル</span>
+            <span class="medal-count-badge" id="goldCountBadge">19</span>
           </button>
           <button class="medal-btn silver" data-medal="silver">
-            <span class="medal-icon">🥈</span><span>銀メダル確定</span>
-            <span class="medal-count-badge" id="silverCountBadge">0</span>
+            <span class="medal-icon">🥈</span><span>銀メダル</span>
+            <span class="medal-count-badge" id="silverCountBadge">4</span>
           </button>
           <button class="medal-btn bronze" data-medal="bronze">
-            <span class="medal-icon">🥉</span><span>銅メダル確定</span>
-            <span class="medal-count-badge" id="bronzeCountBadge">0</span>
-          </button>
-          <button class="medal-btn upcoming" data-medal="upcoming">
-            <span class="medal-icon">🎯</span><span>今後登場</span>
-            <span class="medal-count-badge" id="upcomingCountBadge">0</span>
+            <span class="medal-icon">🥉</span><span>銅メダル</span>
+            <span class="medal-count-badge" id="bronzeCountBadge">2</span>
           </button>
         </div>
       </div>

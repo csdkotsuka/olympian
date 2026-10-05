@@ -123,9 +123,9 @@ ATHLETES.forEach((athlete, index) => {
       
       <div class="header-actions">
         <div class="header-schedule-group">
-          <div class="header-status-badge live" title="愛知・名古屋2026大会開催中（9月19日〜10月4日）">
-            <span class="status-dot"></span>
-            <span>大会8日目 / 開催中</span>
+          <div class="header-status-badge finished" title="愛知・名古屋2026大会 全日程終了（9月19日〜10月4日）">
+            <span>🏁</span>
+            <span>全日程終了（閉幕）</span>
           </div>
           <a href="https://www.aichi-nagoya2026.org/ja/sports/" target="_blank" rel="noopener noreferrer" class="header-schedule-btn" title="愛知・名古屋2026 公式競技日程・タイムテーブル">
             <span>📅</span>

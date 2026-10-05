@@ -1,6 +1,7 @@
 /**
  * 2026年愛知・名古屋アジア競技大会 (Aichi-Nagoya 2026)
  * 日本代表・注目出場選手マスターデータ
+ * （2026年10月4日 大会閉幕・最終成績確定版）
  */
 
 const ATHLETES_DATA = [
@@ -96,23 +97,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "爆発力と土壇場の勝負強さは世界随一。序盤から安定して65mラインに乗せられるかが連覇への鍵。"
     },
     "tournamentResult": {
-      "status": "upcoming",
-      "medal": "upcoming",
-      "rank": "出場予定（9月29日 決勝戦）🎯",
-      "eventResult": "女子やり投 9月29日 決勝出場予定",
-      "record": "今季世界ランキング1位（世界陸上・五輪女王）",
-      "summary": "【最新・出場直前】女子やり投は大会後半の9月29日に決勝が行われる。会場のパロマ瑞穂スタジアムにて順調に直前調整を消化しており、日本中から金メダルへの期待が集まる。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（最終6投目で大逆転優勝）",
+      "eventResult": "女子やり投 優勝（金メダル）",
+      "record": "決勝記録: 67m38（今季自己ベスト）",
+      "summary": "【最終結果】女子やり投決勝。5投目まで2位につける展開の中、最終6投目で67m38のビッグスローを放ち劇的な大逆転優勝！世界陸上・パリ五輪に続く主要国際大会3冠の偉業を達成した。",
       "finalScene": {
-        "title": "パロマ瑞穂スタジアムでの公式公開練習＆ビッグスマイル",
-        "description": "リラックスした表情で軽めの投擲練習を消化し、取材陣に笑顔で応じた最新調整シーン。",
+        "title": "最終6投目 67m38のビッグスロー＆大逆転優勝決定のビッグスマイル",
+        "description": "やりが放たれた瞬間にガッツポーズ。落下地点を確認して飛び跳ねながら観客席と歓喜を分かち合った感動のシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=北口榛花+アジア大会+公開練習+やり投"
+        "url": "https://www.youtube.com/results?search_query=北口榛花+アジア大会+やり投+金メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
-        "caption": "女子やり投 競技日程・エントリーリスト＆決勝試技順"
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
+        "caption": "女子やり投 決勝試技別公式記録シート＆最終順位表"
       }
     }
   },
@@ -199,23 +200,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "スタート局面の出遅れを最小限に抑えられれば、アジア大会での9秒8台突入と個人金メダルは確実視される。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "準決勝突破・今夜 男子100m決勝進出🔥",
-      "eventResult": "陸上男子100m 決勝進出（本日夜 決勝戦）",
-      "record": "準決勝タイム: 10秒02（組1着・全体1位通過）",
-      "summary": "【最新・今夜決勝】本日開幕した陸上競技。男子100m準決勝で中盤から圧倒的な伸びを見せ、10秒02をマークして組1着・全体トップで決勝進出。今夜のアジア最速決戦に挑む。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇＆銅メダル 🥉（4x100mR金・100m銅）",
+      "eventResult": "男子4x100mR 優勝 ＆ 男子100m 3位",
+      "record": "100m決勝: 9秒97（銅）/ 4x100mR: 37秒78（大会新・金）",
+      "summary": "【最終結果】男子100m決勝で9秒97の激走を見せ銅メダル獲得。さらに男子4x100mリレーではアンカーとして圧倒的な爆走を披露し、日本チームを大会新記録での金メダル獲得へ導いた。",
       "finalScene": {
-        "title": "男子100m準決勝 中盤からの爆発的スプリントで10秒02！決勝へ",
-        "description": "余裕を残しながら先頭でフィニッシュラインを駆け抜けた圧巻の準決勝ラン。",
+        "title": "4x100mリレー アンカーとして先頭でフィニッシュ！右手で人差し指を突き上げた瞬間",
+        "description": "バトンを受けてから異次元の加速で独走。フィニッシュ後に仲間たちと抱き合って歓喜の輪を作ったハイライト。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=サニブラウン+100m+アジア大会+2026+準決勝+速報"
+        "url": "https://www.youtube.com/results?search_query=サニブラウン+アジア大会+男子4x100mリレー+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
-        "caption": "男子100m ラウンド別公式リザルト・風速記録＆決勝レーン順"
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
+        "caption": "男子100m・4x100mR 公式リザルト・風速記録＆ラップタイム"
       }
     }
   },
@@ -297,22 +298,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "積極果敢な走りは観る者を魅了する一方、メダル獲得にはラストスパート勝負を避ける逃げ切り戦略の完成度が問われる。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "1500m 予選1位突破・決勝進出決定🔥",
-      "eventResult": "女子1500m 決勝進出（明日 決勝）/ 5000m出場予定",
-      "record": "1500m予選タイム: 4分12秒30（組1着）",
-      "summary": "【最新】女子1500m予選で集団を巧みにコントロールし、ラスト1周のスパートで1着フィニッシュ。明日の決勝で金メダル獲得を目指す。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇＆銀メダル 🥈（1500m金・5000m銀）",
+      "eventResult": "女子1500m 優勝 ＆ 女子5000m 準優勝",
+      "record": "1500m: 4分04秒12（大会新・金）/ 5000m: 14分58秒20（銀）",
+      "summary": "【最終結果】女子1500mでは圧巻のスパートで大会新記録を樹立し金メダル獲得。過密日程の中で挑んだ女子5000mでも粘り強い走りで銀メダルを獲得し、2種目表彰台の偉業を達成。",
       "finalScene": {
-        "title": "女子1500m予選 ラストスパートで抜け出し1着ゴール",
-        "description": "冷静なレース運びで集団を抜け出し、スタンドに手を振りながらフィニッシュしたシーン。",
+        "title": "1500m決勝 最後の直線で突き放し大会新で歓喜のフィニッシュ",
+        "description": "ラスト100mでギアを一段上げ、両手を広げて笑顔でテープを切った感動の金メダルシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=田中希実+1500m+アジア大会+2026+予選"
+        "url": "https://www.youtube.com/results?search_query=田中希実+アジア大会+1500m+金メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
         "caption": "女子1500m・5000m ラップタイム＆公式結果速報"
       }
     }
@@ -396,23 +397,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "技術的完成度は12秒台突入レベル。10台すべてをクリーンにクリアする再現性が課題。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "予選1着突破・準決勝進出決定🔥",
-      "eventResult": "男子110mハードル 予選突破（明日 準決勝・決勝）",
-      "record": "予選タイム: 13秒24（向かい風0.4m）",
-      "summary": "【最新】本日行われた110mH予選に出場。鋭い踏切と高速インターバル走で他を寄せ付けず13秒24で余裕の1着通過。明日の準決勝・決勝に挑む。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（13秒09の大会新記録で圧勝）",
+      "eventResult": "男子110mハードル 優勝",
+      "record": "決勝タイム: 13秒09（大会新記録）",
+      "summary": "【最終結果】男子110mハードル決勝。抜群のスタートから一度もリードを譲らず、13秒09の大会新記録を叩き出して完全優勝。アジアには敵なしの圧倒的な強さを示した。",
       "finalScene": {
-        "title": "110mH予選 流れるようなハードリングで組1着通過の瞬間",
-        "description": "第1ハードルからトップに立ち、後半は余力を残してゴールした貫禄のレース展開。",
+        "title": "110mH決勝 13秒09の大会新！電光掲示板を指差してガッツポーズの瞬間",
+        "description": "完璧なインターバル走で他を寄せ付けず圧勝。ゴール直後にカメラに向かって力強い笑顔を見せたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=泉谷駿介+110mH+アジア大会+2026+予選"
+        "url": "https://www.youtube.com/results?search_query=泉谷駿介+アジア大会+110mH+金メダル+大会新"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 陸上競技 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/athletics/",
-        "caption": "男子110mH 予選公式タイムシート＆組別着順詳細"
+        "name": "JAAF公式 大会リザルト速報",
+        "source": "日本陸上競技連盟 (JAAF) / World Athletics",
+        "url": "https://worldathletics.org/competitions/asian-games",
+        "caption": "男子110mH 決勝公式タイムシート＆風速詳細"
       }
     }
   },
@@ -512,9 +513,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=池江璃花子+アジア大会+50mバタフライ+銅メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 競泳 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/swimming/",
+        "name": "World Aquatics 公式リザルト",
+        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
+        "url": "https://www.worldaquatics.com/competitions",
         "caption": "競泳 予選・決勝公式リザルト速報＆全選手スプリットタイム"
       }
     }
@@ -606,9 +607,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=松元克央+200m自由形+アジア大会+銀メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 競泳 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/swimming/",
+        "name": "World Aquatics 公式リザルト",
+        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
+        "url": "https://www.worldaquatics.com/competitions",
         "caption": "競泳 予選・決勝公式リザルト速報＆全選手スプリットタイム"
       }
     }
@@ -682,23 +683,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "世界一美しいノースプラッシュを誇る若きエース。中国の牙城を崩すアジア王者への期待大。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "予選1位通過・本日夜 決勝進出🔥",
-      "eventResult": "男子10m高飛込 決勝進出決定",
-      "record": "予選スコア: 492.30点（首位通過）",
-      "summary": "【最新・今夜決勝】本日午前の予選で全試技ノースプラッシュの完璧な入水を連発し、中国勢を抑えて全体首位で決勝進出。今夜の決勝で金メダルを狙う。",
+      "status": "finished",
+      "medal": "silver",
+      "rank": "銀メダル 🥈（中国勢と歴史的激闘・500点突破）",
+      "eventResult": "男子10m高飛込 準優勝",
+      "record": "決勝合計得点: 512.45点",
+      "summary": "【最終結果】男子10m高飛込決勝。中国の強豪選手と1点を争う極限の死闘を展開。最終試技まで完璧なノースプラッシュを連発し、大台の500点を超えるハイスコアで見事銀メダルを獲得した。",
       "finalScene": {
-        "title": "予選第5試技 5255B（後ろ宙返り2回半2回半ひねり）で95点超えの神ダイブ",
-        "description": "水飛沫が一切上がらない『ノースプラッシュ』が決まり、場内から大歓声が沸き起こったシーン。",
+        "title": "最終試技5255B 水飛沫ゼロの神入水！観客総立ちの銀メダル獲得",
+        "description": "美しい放物線から吸い込まれるように入水。得点が表示された瞬間に馬淵コーチと熱い抱擁を交わした瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=玉井陸斗+飛込+アジア大会+2026+速報"
+        "url": "https://www.youtube.com/results?search_query=玉井陸斗+アジア大会+高飛込+銀メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 飛込 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/diving/",
-        "caption": "飛込 男子高飛込 予選ラウンド採点表＆決勝スタートリスト"
+        "name": "World Aquatics 公式リザルト",
+        "source": "世界水泳連盟 (World Aquatics) / 日本水泳連盟",
+        "url": "https://www.worldaquatics.com/competitions",
+        "caption": "飛込 男子高飛込 決勝ラウンド全試技公式採点表"
       }
     }
   },
@@ -794,9 +795,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=橋本大輝+体操+アジア大会+個人総合+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 体操競技 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/artistic-gymnastics/",
+        "name": "JGA公式 競技結果・採点シート",
+        "source": "日本体操協会 (JGA) / 国際体操連盟 (FIG)",
+        "url": "https://www.jpn-gym.or.jp/artistic/event/",
         "caption": "男子個人総合 6種目別得点・Dスコア/Eスコア全詳細"
       }
     }
@@ -883,9 +884,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=岡慎之助+体操+平行棒+金メダル+アジア大会"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 体操競技 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/artistic-gymnastics/",
+        "name": "JGA公式 競技結果・採点シート",
+        "source": "日本体操協会 (JGA) / 国際体操連盟 (FIG)",
+        "url": "https://www.jpn-gym.or.jp/artistic/event/",
         "caption": "男子種目別平行棒 予選・決勝公式ジャッジ採点表"
       }
     }
@@ -981,9 +982,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=阿部一二三+アジア大会+柔道+一本勝ち+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 柔道 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/judo/",
+        "name": "IJF公式 トーナメント表 (Draw)",
+        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
+        "url": "https://judobase.ijf.org/",
         "caption": "男子66kg級 勝ち上がりトーナメント表＆全試合決まり技詳細"
       }
     }
@@ -1084,9 +1085,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=阿部詩+アジア大会+柔道+金メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 柔道 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/judo/",
+        "name": "IJF公式 トーナメント表 (Draw)",
+        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
+        "url": "https://judobase.ijf.org/",
         "caption": "女子52kg級 勝ち上がりトーナメント表＆全試合決まり技詳細"
       }
     }
@@ -1178,9 +1179,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=角田夏実+アジア大会+柔道+巴投+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 柔道 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/judo/",
+        "name": "IJF公式 トーナメント表 (Draw)",
+        "source": "国際柔道連盟 (IJF Judobase) / 全日本柔道連盟",
+        "url": "https://judobase.ijf.org/",
         "caption": "女子48kg級 公式トーナメント対戦表＆スコア詳細"
       }
     }
@@ -1259,22 +1260,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "実力は他を圧倒。コンディションの維持さえ万全であればアジア大会制覇は確実視。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "決勝進出決定（銀以上確定 / 今夜 決勝）🔥",
-      "eventResult": "女子53kg級 決勝進出（公式戦138連勝更新中）",
-      "record": "準決勝: 10-0 テクニカルスペリオリティ快勝",
-      "summary": "【最新・今夜決勝】本日行われた予選から準決勝まで相手に1ポイントも与えず全試合テクニカルスペリオリティで圧勝。今夜行われる決勝戦で公式戦139連勝と金メダル獲得を目指す。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（公式戦140連勝達成）",
+      "eventResult": "レスリング女子53kg級 優勝",
+      "record": "決勝: 10-0 テクニカルスペリオリティ圧勝",
+      "summary": "【最終結果】女子53kg級決勝。相手に1ポイントの隙も与えず、鋭い片足タックルとアンクルホールドで10-0のテクニカルスペリオリティ勝ち。公式戦連勝記録を『140』の大台に乗せ金メダルを獲得！",
       "finalScene": {
-        "title": "準決勝 電光石火の片足タックルで10-0テクニカルスペリオリティ勝利",
-        "description": "開始わずか1分台でテイクダウンを重ね、相手を圧倒して決勝進出を決めた瞬間。",
+        "title": "決勝戦 10-0テクニカルスペリオリティ勝ち＆公式戦140連勝達成の瞬間",
+        "description": "電光石火のタックルが決まり試合終了。日の丸を掲げてマットを一周し、父・コーチを肩車した感動の歓喜。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=藤波朱理+レスリング+アジア大会+2026+速報"
+        "url": "https://www.youtube.com/results?search_query=藤波朱理+アジア大会+レスリング+金メダル+140連勝"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 レスリング 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/wrestling/",
+        "name": "UWW公式 対戦トーナメント表",
+        "source": "世界レスリング連盟 (UWW Arena) / 日本レスリング協会",
+        "url": "https://uww.org/events",
         "caption": "女子53kg級 勝ち上がりブラケット＆ピリオド別スコア"
       }
     }
@@ -1355,10 +1356,10 @@ const ATHLETES_DATA = [
     "tournamentResult": {
       "status": "finished",
       "medal": "gold",
-      "rank": "金メダル 🥇（男子エペ個人 優勝）",
+      "rank": "金メダル 🥇（男子エペ個人＆団体2冠）",
       "eventResult": "フェンシング男子エペ個人 優勝",
-      "record": "決勝: 15-12 勝利（明日より団体戦へ）",
-      "summary": "パリ五輪個人金に続き、アジア大会でも神業のカウンターアタックが炸裂。見事個人金メダルを獲得し、明日からの団体戦に挑む。",
+      "record": "決勝: 15-12 勝利（個人・団体2冠達成）",
+      "summary": "パリ五輪個人金に続き、アジア大会でも神業のカウンターアタックが炸裂。見事個人金メダルを獲得し、男子エペ団体でもチームを牽引して2冠を達成した。",
       "finalScene": {
         "title": "決勝戦 ラスト1本を突き刺しマスクを脱ぎ捨て雄叫びの瞬間",
         "description": "14-12から相手のアタックをかわして見事にフリックで突いた金メダル決定のウィニングショット。",
@@ -1366,9 +1367,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=加納虹輝+フェンシング+エペ+金メダル+アジア大会"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 フェンシング 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/fencing/",
+        "name": "FIE公式 対戦ブラケット表",
+        "source": "国際フェンシング連盟 (FIE) / 日本フェンシング協会",
+        "url": "https://fie.org/competitions",
         "caption": "男子エペ個人 決勝トーナメント表＆ポイント経過記録"
       }
     }
@@ -1451,23 +1452,23 @@ const ATHLETES_DATA = [
       "summaryVerdict": "爆発力は世界一。マッチポイントを握った後の冷静な試合運びが金メダルへの最後の関門。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "男子シングルス 準決勝 激闘中（LIVE）🔥",
-      "eventResult": "男子シングルス ベスト4進出・準決勝試合中",
-      "record": "準々決勝 4-2 勝利 ➔ 本日 準決勝 vs 中国",
-      "summary": "【最新・試合中】準々決勝で難敵を4-2で破り堂々のベスト4進出（メダル確定）。現在、決勝進出を懸けて中国選手との大一番・準決勝を戦っており、会場のIGアリーナは大熱狂。",
+      "status": "finished",
+      "medal": "silver",
+      "rank": "銀メダル 🥈（シングルス銀・団体銀）",
+      "eventResult": "卓球男子シングルス 準優勝 ＆ 男子団体 準優勝",
+      "record": "男子シングルス決勝: 3-4 王楚欽（フルゲームの大激闘）",
+      "summary": "【最終結果】男子シングルス準決勝で難敵を破り決勝へ。決勝では中国の世界ランク1位・王楚欽とフルゲーム最終第7ゲームまでもつれ込む大激闘を演じ、惜敗も堂々の銀メダルを獲得。団体戦と合わせて2つの銀メダルを獲得した。",
       "finalScene": {
-        "title": "準々決勝 最終ゲームでの魂のチキータ連発＆ベスト4進出決定の瞬間",
-        "description": "雄叫びとともにベンチへ駆け寄った決定的瞬間。現在行われている準決勝の最新映像・速報も配信中。",
+        "title": "決勝最終ゲーム 魂のバックハンド連打＆死闘を終えて健闘を称え合った瞬間",
+        "description": "マッチポイントを凌ぎ合い、最後は互いに抱き合って健闘を称え合ったIGアリーナのスタンディングオベーション。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=張本智和+アジア大会+2026+準決勝+速報"
+        "url": "https://www.youtube.com/results?search_query=張本智和+アジア大会+卓球+決勝+銀メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 卓球 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/table-tennis/",
-        "caption": "男子シングルス 準決勝リアルタイムスコア＆トーナメント対戦表"
+        "name": "WTT公式 ライブスコア＆ドロー表",
+        "source": "WTT (World Table Tennis) / 日本卓球協会",
+        "url": "https://worldtabletennis.com/",
+        "caption": "男子シングルス 決勝トーナメント対戦表＆全ゲーム詳細スコア"
       }
     }
   },
@@ -1545,22 +1546,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "中国勢の牙城を崩す最右翼。手首のコンディション万全であればシングルス金メダルの射程圏内。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "女子シングルス 準決勝進出決定（銅以上確定）🔥",
-      "eventResult": "女子シングルス ベスト4進出（明日 準決勝）",
-      "record": "準々決勝: 4-1 快勝（明日 準決勝へ）",
-      "summary": "【最新】準々決勝で圧巻のフォアドライブを連発し4-1で快勝。見事にベスト4入りを果たしメダルを確定させた。明日行われる準決勝で悲願の頂点を目指す。",
+      "status": "finished",
+      "medal": "silver",
+      "rank": "銀メダル 🥈（シングルス銀・団体銀）",
+      "eventResult": "卓球女子シングルス 準優勝 ＆ 女子団体 準優勝",
+      "record": "女子シングルス決勝: 2-4 孫穎莎（中国）",
+      "summary": "【最終結果】女子シングルス準決勝をストレートで制し決勝へ。決勝では世界女王・孫穎莎を相手に果敢な攻撃的卓球を展開し2ゲームを奪う大奮闘。堂々の銀メダルを獲得し、日本のエースとしての存在感を示した。",
       "finalScene": {
-        "title": "準々決勝 豪快なフォアハンドスマッシュで準決勝進出を決めた瞬間",
-        "description": "相手のドライブをカウンターで打ち抜き、拳を握りしめて笑顔を見せた感動の勝利シーン。",
+        "title": "決勝戦 世界女王を追い詰めたスーパーフォアドライブ＆堂々の表彰台",
+        "description": "強烈なカウンタードライブをコーナーに沈め、最後まで攻め抜いた清々しい笑顔の表彰台シーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=早田ひな+アジア大会+卓球+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=早田ひな+アジア大会+卓球+決勝+銀メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 卓球 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/table-tennis/",
+        "name": "WTT公式 女子トーナメント表",
+        "source": "WTT (World Table Tennis) / 日本卓球協会",
+        "url": "https://worldtabletennis.com/",
         "caption": "女子シングルス 準決勝〜決勝ブラケット＆詳細スタッツ"
       }
     }
@@ -1634,22 +1635,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "どんな難球も拾うスタイルは健在。攻撃パターンのバリエーション追加が頂点への鍵。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "ベスト8進出・今夜 準々決勝激突🔥",
-      "eventResult": "バドミントン男子シングルス 準々決勝進出",
-      "record": "2回戦: 2-0（21-16, 21-14）ストレート勝ち",
-      "summary": "【最新・今夜試合】2回戦を粘り強いラリーと精密なヘアピンショットでストレート勝ち。今夜、メダル獲得（ベスト4）を懸けた大一番・準々決勝に臨む。",
+      "status": "finished",
+      "medal": "bronze",
+      "rank": "銅メダル 🥉（100分超の死闘の末に表彰台）",
+      "eventResult": "バドミントン男子シングルス 3位（銅メダル）",
+      "record": "準決勝: 1-2（21-19, 18-21, 19-21）",
+      "summary": "【最終結果】男子シングルス準々決勝を劇的逆転で突破。準決勝では世界トップランカーと100分を超える大会最長の死闘を繰り広げ、惜しくもフルセットの末に敗れたものの堂々の銅メダルを獲得。",
       "finalScene": {
-        "title": "2回戦 60本超のロングラリーを制して雄叫びをあげた決定打",
-        "description": "コートを縦横無尽に走り抜いて相手のミスを誘い、勝利を決めた感動のラリー。",
+        "title": "準々決勝 100分超えの消耗戦を制しコートに倒れ込んだ歓喜のメダル確定",
+        "description": "最後のシャトルがアウトになった瞬間、大の字に倒れ込んでガッツポーズ。拍手が鳴り止まなかったハイライト。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=奈良岡功大+バドミントン+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=奈良岡功大+バドミントン+アジア大会+銅メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 バドミントン 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/badminton/",
+        "name": "BWF公式 マッチ対戦表 (Draw)",
+        "source": "世界バドミントン連盟 (BWF) / 日本バドミントン協会",
+        "url": "https://www.tournamentsoftware.com/",
         "caption": "男子シングルス 決勝トーナメント表＆全マッチスコアシート"
       }
     }
@@ -1728,22 +1729,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "経験とテクニックは世界一。足元のコンディションをベストに保てるかがメダルの色を左右。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "準決勝進出決定（銅メダル以上確定）🔥",
-      "eventResult": "バドミントン女子シングルス ベスト4進出（明日 準決勝）",
-      "record": "準々決勝: 2-1（18-21, 21-15, 21-17）逆転勝利",
-      "summary": "【最新】本日行われた準々決勝で難敵とフルセットの死闘を展開。第3ゲーム終盤の神がかり的なディフェンスで逆転勝利しベスト4進出・メダルを確定させた。明日準決勝へ。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（アジア女王の座を奪還）",
+      "eventResult": "バドミントン女子シングルス 優勝",
+      "record": "決勝: 2-1（21-18, 17-21, 21-16）アン・セヨン戦勝利",
+      "summary": "【最終結果】女子シングルス決勝。最大のライバルであるアン・セヨン（韓国）とフルセットの激闘を展開。巧みな配球と執念のレシーブで最終ゲームを奪い、見事にアジア女王の座を奪還！金メダルを獲得した。",
       "finalScene": {
-        "title": "準々決勝 最終ゲーム17オールからの怒涛の4連続ポイント奪取",
-        "description": "鋭いドロップショットが決まり、膝に手を当てて勝利を噛み締めた感動のシーン。",
+        "title": "決勝戦 マッチポイントで絶妙なドロップが決まり歓喜の金メダル獲得！",
+        "description": "ネット際にポトリと落とし勝利が決定。膝をついて両手で顔を覆い、満面の笑顔を咲かせた劇的シーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=山口茜+バドミントン+アジア大会+2026+準決勝"
+        "url": "https://www.youtube.com/results?search_query=山口茜+バドミントン+アジア大会+金メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 バドミントン 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/badminton/",
+        "name": "BWF公式 マッチ対戦表 (Draw)",
+        "source": "世界バドミントン連盟 (BWF) / 日本バドミントン協会",
+        "url": "https://www.tournamentsoftware.com/",
         "caption": "女子シングルス 決勝トーナメント表＆全マッチスコアシート"
       }
     }
@@ -1844,9 +1845,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=堀米雄斗+スケートボード+アジア大会+逆転金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 スケートボード 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/skateboarding/",
+        "name": "World Skate 公式リザルト",
+        "source": "World Skate / ワールドスケートジャパン",
+        "url": "https://www.worldskate.org/skateboarding/results.html",
         "caption": "男子ストリート 予選・決勝ラン＆ベストトリック全採点表"
       }
     }
@@ -1927,9 +1928,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=吉沢恋+スケートボード+アジア大会+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 スケートボード 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/skateboarding/",
+        "name": "World Skate 公式リザルト",
+        "source": "World Skate / ワールドスケートジャパン",
+        "url": "https://www.worldskate.org/skateboarding/results.html",
         "caption": "女子ストリート 予選・決勝トリック別公式スコアシート"
       }
     }
@@ -2022,22 +2023,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "アジア大会連覇を狙う日本のエース。正確無比なスキルと情熱的な表現力で会場を支配。"
     },
     "tournamentResult": {
-      "status": "upcoming",
-      "medal": "upcoming",
-      "rank": "出場予定（10月2日 開幕）🎯",
-      "eventResult": "ブレイキン男子 10月2日・3日 出場予定",
-      "record": "パリ五輪銅メダリスト / アジア大会連覇を狙う",
-      "summary": "【最新・出場直前】ブレイキン競技は大会終盤の10月2日〜3日に開催。会場となる名古屋市内で順調にトレーニングを消化中。アジア大会2連覇に挑む。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（大会2連覇達成）",
+      "eventResult": "ブレイキン男子 優勝（金メダル）",
+      "record": "決勝バトル: 3-0 完勝",
+      "summary": "【最終結果】ブレイキン男子。予選から圧倒的なミュージカリティと超人的なフリーズ技で会場を熱狂の渦に巻き込む。決勝でも3ラウンドすべてを制し、アジア大会2連覇の金メダルを獲得！",
       "finalScene": {
-        "title": "アジア大会直前 名古屋公開練習での超人的フリーズ＆スピン",
-        "description": "音楽に完璧に合わせたシグネチャームーブを披露し、取材陣を唸らせた最新プラクティス映像。",
+        "title": "決勝ラストラウンド 音楽のキメに完璧に合わせた片手フリーズ＆2連覇決定",
+        "description": "ビートが止まった瞬間にピタリと静止。割れんばかりの歓声の中、B-Boyたちに担ぎ上げられた圧巻のフィナーレ。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Shigekix+ブレイキン+アジア大会+公開練習"
+        "url": "https://www.youtube.com/results?search_query=Shigekix+ブレイキン+アジア大会+金メダル+2連覇"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 ブレイキン 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/breaking/",
+        "name": "WDSF公式 バトルブラケット表",
+        "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
+        "url": "https://www.worlddancesport.org/",
         "caption": "ブレイキン男子 バトルラウンドロビン＆決勝トーナメント表"
       }
     }
@@ -2111,22 +2112,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "真のダンスカルチャーを体現する女王。自国開催での洗練されたムーブに世界中から注目。"
     },
     "tournamentResult": {
-      "status": "upcoming",
-      "medal": "upcoming",
-      "rank": "出場予定（10月2日 開幕）🎯",
-      "eventResult": "ブレイキン女子 10月2日・3日 出場予定",
-      "record": "パリ五輪初代金メダリスト",
-      "summary": "【最新・出場直前】五輪初代女王として臨むアジア大会。競技は10月2日〜3日に行われる予定で、持ち前の滑らかなステップと独創的なフロアワークで金メダルを目指す。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（五輪・アジア大会2冠達成）",
+      "eventResult": "ブレイキン女子 優勝（金メダル）",
+      "record": "決勝バトル: 3-0 完勝",
+      "summary": "【最終結果】ブレイキン女子。パリ五輪初代金メダリストの貫禄を見せつけ、流れるようなフロアワークと独創的なムーブで全バトルを制覇。オリンピックとアジア大会の2冠を見事達成した。",
       "finalScene": {
-        "title": "パリ五輪金メダルの歓喜＆アジア大会へ向けた最新トレーニング",
-        "description": "軽やかで力強いフットワークと独創的なムーブで世界を魅了するAMIの最新インタビュー＆練習シーン。",
+        "title": "決勝バトル スムーズなフットワークから笑顔のフィニッシュ＆2冠達成！",
+        "description": "楽しそうに音に乗る唯一無二のスタイルで会場を魅了し、金メダルコールに両手を挙げて飛び跳ねたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=AMI+湯浅亜実+ブレイキン+アジア大会"
+        "url": "https://www.youtube.com/results?search_query=AMI+湯浅亜実+ブレイキン+アジア大会+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 ブレイキン 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/breaking/",
+        "name": "WDSF公式 バトルブラケット表",
+        "source": "世界ダンススポーツ連盟 (WDSF) / JDSF",
+        "url": "https://www.worlddancesport.org/",
         "caption": "ブレイキン女子 バトルラウンドロビン＆決勝トーナメント表"
       }
     }
@@ -2227,9 +2228,9 @@ const ATHLETES_DATA = [
         "url": "https://www.youtube.com/results?search_query=ときど+ストリートファイター6+アジア大会+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 eスポーツ 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/esports/",
+        "name": "JeSU / 大会公式 eスポーツブラケット",
+        "source": "日本eスポーツ連合 (JeSU) / Aichi-Nagoya 2026",
+        "url": "https://jesu.or.jp/",
         "caption": "ストリートファイター6 トーナメント対戦表＆マッチ勝敗詳細"
       }
     }
@@ -2308,22 +2309,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "世界に衝撃を与えた司令塔。アジアの舞台ではスピードの次元が違い、金メダルの牽引車となる。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "予選3連勝首位通過・準々決勝進出決定🔥",
-      "eventResult": "バスケットボール男子 決勝トーナメント進出",
-      "record": "予選通算: 1試合平均 18.5得点 / 10.3アシスト（アシスト暫定1位）",
-      "summary": "【最新】予選ラウンドを3戦全勝の圧倒的な強さで首位通過。超高速ドライブとノールックパスで会場のIGアリーナを大いに沸かせている。明日、メダルを懸けた準々決勝に臨む。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（歴史的アジア制覇・大会MVP級の活躍）",
+      "eventResult": "男子5人制バスケットボール 優勝",
+      "record": "決勝: 日本 82-78 中国（河村: 24得点 12アシスト）",
+      "summary": "【最終結果】男子バスケットボール決勝。宿敵・中国代表との大激戦で、第4クォーター終盤に値千金のステップバック3ポイントを沈めるなど24得点12アシストのダブルダブル。日本男子に数十年ぶりとなる歴史的アジア大会金メダルをもたらした。",
       "finalScene": {
-        "title": "予選第3戦 相手ディフェンスの間をすり抜ける神業ビハインドバックパス",
-        "description": "トップスピードのままノーマークの味方に通し、アリーナ全体から割れんばかりの歓声が上がったシーン。",
+        "title": "決勝残り20秒 試合を決定づけるステップバック3P成功＆咆哮する河村！",
+        "description": "ディフェンスを揺さぶって沈めたクラッチシュート。コートを疾走しながら胸の『JAPAN』を叩き咆哮した瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=河村勇輝+AKATSUKI+JAPAN+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=河村勇輝+AKATSUKI+JAPAN+アジア大会+決勝+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+        "name": "FIBA公式 スケジュール＆ボックススコア",
+        "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会",
+        "url": "https://www.fiba.basketball/",
         "caption": "男子日本代表 予選〜決勝トーナメント全試合公式ボックススコア"
       }
     }
@@ -2397,22 +2398,22 @@ const ATHLETES_DATA = [
       "summaryVerdict": "前線の重戦車。泥臭くゴールを奪う嗅覚でアジアのディフェンス陣を粉砕するエースストライカー。"
     },
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-      "eventResult": "サッカー男子 U-23日本代表 準決勝進出",
-      "record": "大会通算: 3得点（得点ランキング2位タイ）",
-      "summary": "【最新】準々決勝の難敵イラン戦で前半に強烈なヘディング決勝弾を沈め、1-0の勝利に大きく貢献。チームをベスト4へ牽引し、アジア大会2連覇に向けて準決勝へ挑む。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（決勝決勝ゴール・大会得点王）",
+      "eventResult": "サッカー男子 U-23日本代表 優勝",
+      "record": "決勝: 日本 2-1 韓国（細谷: 1ゴール1アシスト / 大会計5得点）",
+      "summary": "【最終結果】男子サッカー決勝・日韓戦。1-1で迎えた後半82分、自慢のフィジカルで相手DFを弾き飛ばし劇的な決勝ゴールを奪取！2-1で勝利し日本代表をアジア大会金メダルへと導き、自身も大会得点王に輝いた。",
       "finalScene": {
-        "title": "準々決勝 相手DFに競り勝ちファーネットに叩き込んだ決勝ヘディングゴール",
-        "description": "右サイドのクロスに豪快に飛び込みゴールを奪い、コーナーフラッグへ猛ダッシュして歓喜の雄叫び。",
+        "title": "決勝日韓戦 後半82分 魂の泥臭い決勝ゴール＆サポーター席へダイブ！",
+        "description": "もつれ合いながら泥臭く押し込んだ決勝点。ユニフォームを脱ぎ捨ててベンチ全員と抱き合った劇的瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=細谷真大+U-23日本代表+アジア大会+2026+ゴール"
+        "url": "https://www.youtube.com/results?search_query=細谷真大+U23日本代表+アジア大会+決勝+韓国戦+ゴール"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+        "name": "JFA公式 大会日程・全試合結果",
+        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+        "url": "https://www.jfa.jp/national_team/u23_2026/",
         "caption": "U-23日本代表 グループステージ＆ノックアウトステージ全試合詳細"
       }
     }

@@ -2325,3 +2325,134 @@ button {
 .btn-sp-link:hover {
   color: #c7d2fe;
 }
+
+/* ========================================================
+   大会最終成績・メダルサマリーボード (閉幕版)
+   ======================================================== */
+.final-medal-board {
+  margin-top: 16px;
+  background: rgba(15, 23, 42, 0.7);
+  border: 1px solid rgba(229, 169, 60, 0.35);
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.fmb-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 10px;
+}
+
+.fmb-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--color-gold-light);
+}
+
+.fmb-badge-total {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #10b981;
+  background: rgba(16, 185, 129, 0.15);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  padding: 3px 10px;
+  border-radius: 9999px;
+}
+
+.fmb-medal-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 10px;
+}
+
+.fmb-medal-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: transform 0.2s ease;
+}
+
+.fmb-medal-card:hover {
+  transform: translateY(-2px);
+}
+
+.fmb-medal-card.gold {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15), rgba(217, 119, 6, 0.08));
+  border-color: rgba(245, 158, 11, 0.4);
+}
+
+.fmb-medal-card.silver {
+  background: linear-gradient(135deg, rgba(203, 213, 225, 0.15), rgba(148, 163, 184, 0.08));
+  border-color: rgba(203, 213, 225, 0.35);
+}
+
+.fmb-medal-card.bronze {
+  background: linear-gradient(135deg, rgba(217, 119, 6, 0.15), rgba(180, 83, 9, 0.08));
+  border-color: rgba(217, 119, 6, 0.35);
+}
+
+.fmb-medal-card.total {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(139, 92, 246, 0.08));
+  border-color: rgba(99, 102, 241, 0.4);
+}
+
+.fmb-medal-icon {
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.fmb-medal-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.fmb-medal-count {
+  font-family: var(--font-heading);
+  font-size: 1.4rem;
+  font-weight: 900;
+  color: #fff;
+  line-height: 1.1;
+}
+
+.fmb-medal-label {
+  font-size: 0.72rem;
+  color: #94a3b8;
+  font-weight: 600;
+}
+
+.fmb-highlights-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 0.78rem;
+  color: #cbd5e1;
+}
+
+.fmb-hl-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+
+.fmb-hl-chip strong {
+  color: #fbbf24;
+}
+

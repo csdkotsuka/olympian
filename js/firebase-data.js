@@ -251,8 +251,21 @@ async function switchCompetition(compId) {
     }
 
     // 取得データをグローバル変数へセット
-    window.ATHLETES_DATA = athletes;
-    window.TEAMS_DATA = teams;
+    // ※ asian-games-2026 について、ローカルの最新データ（大会全日程終了・最終成績確定版）がロードされている場合、
+    // Firestoreのデータが古い（ongoing/upcomingを含む）なら最新の確定版を維持
+    if (compId === 'asian-games-2026' && window.ATHLETES_DATA && window.ATHLETES_DATA.length > 0) {
+      const hasOngoingInFirestore = athletes.some(a => a.tournamentResult?.status === 'ongoing' || a.tournamentResult?.status === 'upcoming');
+      const localIsFinished = window.ATHLETES_DATA.every(a => a.tournamentResult?.status === 'finished');
+      if (hasOngoingInFirestore && localIsFinished) {
+        console.log('[Olympian] 大会全日程終了の最新最終成績データを保持します。');
+      } else {
+        window.ATHLETES_DATA = athletes;
+        window.TEAMS_DATA = teams;
+      }
+    } else {
+      window.ATHLETES_DATA = athletes;
+      window.TEAMS_DATA = teams;
+    }
 
     // app.js の再初期化
     if (typeof window.initApp === 'function') {

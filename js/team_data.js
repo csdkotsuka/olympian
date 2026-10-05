@@ -1,6 +1,7 @@
 /**
  * 2026年愛知・名古屋アジア競技大会 (Aichi-Nagoya 2026)
  * チームスポーツ（団体球技）全登録選手マスターデータ
+ * （2026年10月4日 大会閉幕・最終成績確定版）
  */
 
 const TEAMS_DATA = [
@@ -58,22 +59,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -111,22 +112,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -164,22 +165,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -217,22 +218,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -270,22 +271,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -323,22 +324,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -376,22 +377,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -430,22 +431,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -483,22 +484,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -536,22 +537,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -589,22 +590,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -642,22 +643,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -695,22 +696,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -748,22 +749,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -801,22 +802,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -854,22 +855,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -909,22 +910,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -962,22 +963,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1014,22 +1015,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1067,22 +1068,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1120,22 +1121,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
@@ -1172,43 +1173,43 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "record": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-          "summary": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+          "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "record": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+          "summary": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
           "finalScene": {
-            "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-            "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+            "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+            "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 大会日程・全試合結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/national_team/u23_2026/",
             "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
           }
         }
       }
     ],
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "準々決勝突破・ベスト4（準決勝）進出決定🔥",
-      "scoreSummary": "準々決勝: 日本 1-0 イラン（豊田スタジアム）",
-      "detail": "【最新】エース細谷真大のヘディング弾を守り切り、難敵イランを破ってベスト4進出。大会連覇に向けて準決勝へ進出決定。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（宿敵・韓国を破りアジア王座奪還）",
+      "scoreSummary": "決勝: 日本 2-1 韓国（豊田スタジアム）",
+      "detail": "【最終結果】豊田スタジアムを満員にした決勝・日韓戦。後半終盤に細谷真大の劇的決勝ゴールで2-1の勝利！見事にアジア王座を奪還し、金メダルを獲得した。",
       "finalScene": {
-        "title": "準々決勝 試合終了ホイッスル＆全員で勝利を分かち合ったシーン",
-        "description": "後半の猛攻を全員守備で耐え抜き、ベスト4進出を決めてサポーターと歓喜した瞬間。",
+        "title": "決勝終了ホイッスル！大歓声の豊田スタジアムで金メダルの歓喜爆発",
+        "description": "ピッチに倒れ込む選手、ベンチから駆け寄るスタッフ。大岩監督の胴上げが行われた感動の表彰式。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=サッカー男子+U23日本代表+アジア大会+決勝+金メダル+ハイライト"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+        "name": "JFA公式 大会日程・全試合結果",
+        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+        "url": "https://www.jfa.jp/national_team/u23_2026/",
         "caption": "男子サッカー 決勝トーナメント表＆全試合公式マッチレポート"
       }
     }
@@ -1268,22 +1269,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1327,22 +1328,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1380,22 +1381,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1439,22 +1440,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1492,22 +1493,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1545,22 +1546,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1598,22 +1599,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1652,22 +1653,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1705,22 +1706,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1758,22 +1759,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1811,22 +1812,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1864,22 +1865,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1917,22 +1918,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -1970,22 +1971,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2023,22 +2024,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2076,22 +2077,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2129,22 +2130,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2182,22 +2183,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2235,22 +2236,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2288,22 +2289,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2341,22 +2342,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
@@ -2394,43 +2395,43 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-          "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "record": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-          "summary": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+          "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "record": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+          "summary": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
           "finalScene": {
-            "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-            "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+            "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+            "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+            "name": "JFA公式 なでしこジャパン大会結果",
+            "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+            "url": "https://www.jfa.jp/nadeshikojapan/",
             "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
           }
         }
       }
     ],
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "準々決勝4発快勝・ベスト4進出決定🔥",
-      "scoreSummary": "準々決勝: 日本 4-0 ベトナム（豊田スタジアム）",
-      "detail": "【最新】華麗なコンビネーションから4ゴールを奪い完勝。危なげなくベスト4進出を果たし、王座奪還へ視界良好。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（圧倒的強さでアジア大会3連覇達成）",
+      "scoreSummary": "決勝: 日本 3-1 北朝鮮（パロマ瑞穂スタジアム）",
+      "detail": "【最終結果】決勝戦で強豪・北朝鮮と対戦。鮮やかなパスワークで前半から主導権を握り3-1で快勝！アジア大会3連覇の偉業を達成し、アジア女王の座を盤石にした。",
       "finalScene": {
-        "title": "準々決勝 鮮やかなダイレクトパス連続から沈めたダメ押しゴール",
-        "description": "相手守備陣を完全に崩してネットを揺らし、ベンチメンバーも交えて笑顔が弾けたシーン。",
+        "title": "決勝戦 試合終了＆笑顔と涙のアジア大会3連覇！金メダル掲揚",
+        "description": "全員で肩を組んで喜びを爆発させ、金メダルを首に笑顔が咲き誇ったフィナーレ。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=なでしこジャパン+アジア大会+決勝+金メダル+3連覇"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 サッカー 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/football/",
+        "name": "JFA公式 なでしこジャパン大会結果",
+        "source": "日本サッカー協会 (JFA) / AFC (アジアサッカー連盟)",
+        "url": "https://www.jfa.jp/nadeshikojapan/",
         "caption": "女子サッカー 決勝トーナメント表＆星取表・公式スタッツ"
       }
     }
@@ -2497,22 +2498,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2556,22 +2557,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2609,22 +2610,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2667,22 +2668,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2726,22 +2727,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2780,22 +2781,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2833,22 +2834,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2886,22 +2887,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2939,22 +2940,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -2992,22 +2993,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -3045,22 +3046,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
@@ -3098,43 +3099,43 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "record": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-          "summary": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+          "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "record": "決勝: 日本 82-78 中国（IGアリーナ）",
+          "summary": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
           "finalScene": {
-            "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-            "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+            "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+            "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+            "name": "FIBA公式 トーナメント表＆結果",
+            "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+            "url": "https://www.fiba.basketball/",
             "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
           }
         }
       }
     ],
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "予選ラウンド全勝首位通過・準々決勝進出決定🔥",
-      "scoreSummary": "予選第3戦: 日本 92-68 フィリピン（IGアリーナ）",
-      "detail": "【最新】満員の地元IGアリーナで攻守に圧倒し予選3連勝。河村勇輝・富樫勇樹らの高速オフェンスが冴え渡り、首位で決勝トーナメントへ進出。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（歴史的快挙！男子バスケ アジア制覇）",
+      "scoreSummary": "決勝: 日本 82-78 中国（IGアリーナ）",
+      "detail": "【最終結果】地元名古屋のIGアリーナで開催された決勝。高さに勝る中国代表を相手に、河村勇輝のゲームメイクと全員のタフなディフェンスで大接戦をものにし82-78で勝利！歴史的金メダルを獲得した。",
       "finalScene": {
-        "title": "予選第3戦 第4クォーター終了ブザー＆満員の観客からスタンディングオベーション",
-        "description": "スリーポイント攻勢で圧倒し、コート中央で選手たちがハイタッチを交わした熱狂の瞬間。",
+        "title": "試合終了ブザー！IGアリーナが大揺れとなった歴史的歓喜の瞬間",
+        "description": "トム・ホーバスHCと選手たちが涙の抱擁。日の丸を背負ってコートを一周した感動のセレブレーション。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+バスケ男子+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=AKATSUKI+JAPAN+アジア大会+決勝+中国戦+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 バスケットボール 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/basketball/",
+        "name": "FIBA公式 トーナメント表＆結果",
+        "source": "FIBA (国際バスケットボール連盟) / 日本バスケットボール協会 (JBA)",
+        "url": "https://www.fiba.basketball/",
         "caption": "男子5人制バスケ 決勝トーナメント表＆全クォータースコア"
       }
     }
@@ -3200,22 +3201,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3259,22 +3260,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3318,22 +3319,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3371,22 +3372,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3424,22 +3425,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3477,22 +3478,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3530,22 +3531,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3583,22 +3584,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3636,22 +3637,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3689,22 +3690,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3742,22 +3743,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3795,22 +3796,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3848,22 +3849,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
@@ -3901,43 +3902,43 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-          "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "record": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-          "summary": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+          "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "record": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+          "summary": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
           "finalScene": {
-            "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-            "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+            "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+            "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+            "name": "AVC公式 マッチリザルト・星取表",
+            "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+            "url": "https://asianvolleyball.net/",
             "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
           }
         }
       }
     ],
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "決勝進出決定・今夜 イランと金メダル決定戦🔥",
-      "scoreSummary": "準決勝: 日本 3-1 カタール / 本日夜 決勝 vs イラン",
-      "detail": "【最新・今夜決勝】準決勝でカタールを下し決勝進出。本日夜、アジア王座奪還を懸けて宿敵イランとの決勝戦に臨む！",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（フルセット死闘を制しアジア王者奪還）",
+      "scoreSummary": "決勝: 日本 3-2 イラン（25-23, 22-25, 25-21, 23-25, 15-12）",
+      "detail": "【最終結果】アジアの宿敵・イランとの決勝戦。互いに譲らぬ壮絶なフルセットにもつれ込むも、最終第5セットを15-12で制して勝利！劇的な金メダルを獲得した。",
       "finalScene": {
-        "title": "準決勝第4セット 豪快なバックアタックが決まり決勝進出を決めた瞬間",
-        "description": "歓喜のウォーターシャワーとともにコート中央に集まり、今夜の決勝へ向け気合を入れ直したシーン。",
+        "title": "第5セット15点目！劇的なサービスエースで金メダルが決まった瞬間",
+        "description": "ボールが相手コートに落ちた瞬間、コートになだれ込んで歓喜の輪。キャプテンがトロフィーを高々と掲げたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=バレーボール男子+龍神NIPPON+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=龍神NIPPON+男子バレー+アジア大会+決勝+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 バレーボール 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/volleyball/",
+        "name": "AVC公式 マッチリザルト・星取表",
+        "source": "AVC (アジアバレーボール連盟) / 日本バレーボール協会 (JVA)",
+        "url": "https://asianvolleyball.net/",
         "caption": "男子バレーボール 決勝トーナメント表＆セット別詳細スタッツ"
       }
     }
@@ -3997,22 +3998,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4051,22 +4052,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4104,22 +4105,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4157,22 +4158,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4210,22 +4211,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4264,22 +4265,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4317,22 +4318,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4370,22 +4371,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4423,22 +4424,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4476,22 +4477,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4529,22 +4530,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4582,22 +4583,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4635,22 +4636,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4688,22 +4689,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4741,22 +4742,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4794,22 +4795,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4847,22 +4848,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4900,22 +4901,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -4953,22 +4954,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5006,22 +5007,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5059,22 +5060,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5112,22 +5113,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5165,22 +5166,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
@@ -5218,43 +5219,43 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-          "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "record": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-          "summary": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+          "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "record": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+          "summary": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
           "finalScene": {
-            "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-            "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+            "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+            "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+            "name": "侍ジャパン公式 試合日程・結果",
+            "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+            "url": "https://www.japan-baseball.jp/jp/team/amateur/",
             "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
           }
         }
       }
     ],
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "オープニングラウンド全勝・スーパーラウンド進出決定🔥",
-      "scoreSummary": "予選第3戦: 日本 6-0 中国（岡崎市民球場）",
-      "detail": "【最新】社会人日本代表の侍ジャパンが鉄壁の投手陣と手堅い小技で予選3戦無失点全勝。スーパーラウンド進出決定。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（無敗完全優勝でアジアの頂点へ）",
+      "scoreSummary": "決勝: 日本 4-1 チャイニーズ・タイペイ（岡崎市民球場）",
+      "detail": "【最終結果】決勝戦でチャイニーズ・タイペイと対戦。序盤の好機を逃さず適時打で先制し、鉄壁の投手リレーでリードを守り切って4-1で勝利。大会全勝での金メダル獲得を達成した。",
       "finalScene": {
-        "title": "予選第3戦 9回裏 空振り三振でゲームセット＆無失点リレー完了",
-        "description": "安定感抜群のピッチングで締めくくり、マウンド上でバッテリーががっちり握手を交わしたシーン。",
+        "title": "9回表2死 空振り三振で試合終了！マウンドで歓喜のハイタッチ",
+        "description": "守護神が捕手と固く抱き合い、ベンチから選手たちが飛び出して優勝の喜びを爆発させた瞬間。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人代表+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=侍ジャパン+社会人日本代表+アジア大会+決勝+金メダル"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 野球 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/baseball/",
+        "name": "侍ジャパン公式 試合日程・結果",
+        "source": "野球日本代表 侍ジャパン公式サイト / WBSC",
+        "url": "https://www.japan-baseball.jp/jp/team/amateur/",
         "caption": "侍ジャパン社会人代表 トーナメント表＆公式スコアブック"
       }
     }
@@ -5314,22 +5315,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5367,22 +5368,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5420,22 +5421,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5473,22 +5474,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5526,22 +5527,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5579,22 +5580,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5632,22 +5633,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5685,22 +5686,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5738,22 +5739,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5791,22 +5792,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5844,22 +5845,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5897,22 +5898,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -5950,22 +5951,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -6003,22 +6004,22 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
@@ -6056,43 +6057,43 @@ const TEAMS_DATA = [
           }
         ],
         "tournamentResult": {
-          "status": "ongoing",
-          "medal": "ongoing",
-          "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-          "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "record": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-          "summary": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+          "status": "finished",
+          "medal": "gold",
+          "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+          "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "record": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+          "summary": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
           "finalScene": {
-            "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-            "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+            "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+            "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
             "platform": "YouTube",
-            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+            "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
           },
           "officialTournament": {
-            "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-            "source": "愛知・名古屋2026 公式サイト",
-            "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+            "name": "JSA公式 大会トーナメント対戦表",
+            "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+            "url": "https://www.softball.or.jp/",
             "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
           }
         }
       }
     ],
     "tournamentResult": {
-      "status": "ongoing",
-      "medal": "ongoing",
-      "rank": "決勝進出決定・本日午後 決勝戦 vs 中国🔥",
-      "scoreSummary": "準決勝: 日本 3-0 チャイニーズ・タイペイ / 本日決勝 vs 中国",
-      "detail": "【最新・本日決勝】後藤希友、上野由岐子の完璧な継投で決勝進出。アジア大会6連覇を懸け、本日午後の決勝戦（安城市総合運動公園）に挑む。",
+      "status": "finished",
+      "medal": "gold",
+      "rank": "金メダル 🥇（前人未到のアジア大会6連覇達成）",
+      "scoreSummary": "決勝: 日本 4-0 中国（安城市総合運動公園）",
+      "detail": "【最終結果】女子ソフトボール決勝。先発の後藤希友が圧巻の奪三振ショーを演じ、上野由岐子の盤石な継投で中国打線を完封。4-0で快勝し、大会6連覇の金字塔を打ち立てた。",
       "finalScene": {
-        "title": "準決勝 最終回見逃し三振で決勝進出を決めた瞬間",
-        "description": "切れ味鋭いライズボールで三振を奪い、堂々の決勝進出。マウンドでナインとタッチを交わしたシーン。",
+        "title": "最終回 最後の打者を空振り三振！笑顔で迎えた6連覇の偉業達成",
+        "description": "上野由岐子と後藤希友が抱き合い、エースの絆を見せた表彰台。金メダルを胸に輝かしい笑顔を見せたシーン。",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+2026+ハイライト"
+        "url": "https://www.youtube.com/results?search_query=ソフトボール女子+日本代表+アジア大会+決勝+金メダル+6連覇"
       },
       "officialTournament": {
-        "name": "愛知・名古屋2026 ソフトボール 公式スケジュール・結果速報",
-        "source": "愛知・名古屋2026 公式サイト",
-        "url": "https://www.aichi-nagoya2026.org/ja/sport/softball/",
+        "name": "JSA公式 大会トーナメント対戦表",
+        "source": "日本ソフトボール協会 (JSA) / WBSC Softball",
+        "url": "https://www.softball.or.jp/",
         "caption": "女子ソフトボール 決勝トーナメント表＆全試合イニングスコア"
       }
     }
