@@ -1,0 +1,13 @@
+node_modules/
+.git/
+.github/
+/*.js
+package*.json
+firebase*.json
+firestore*.json
+firestore.rules
+.firebaserc
+*.log
+README.md
+.DS_Store
+wrangler.*
